@@ -1,0 +1,266 @@
+[
+  {
+    "id": 221,
+    "question": "Bản Chỉ thị Kháng chiến kiến quốc (25/11/1945) xác định kẻ thù chính của dân tộc ta lúc bấy giờ là ai?",
+    "options": {
+      "a": "Quân đội Tưởng Giới Thạch",
+      "b": "Phát xít Nhật",
+      "c": "Thực dân Pháp xâm lược",
+      "d": "Đế quốc Mỹ"
+    },
+    "answer": "c",
+    "explanation": "Chỉ thị Kháng chiến kiến quốc (25/11/1945) xác định kẻ thù chính của dân tộc ta lúc bấy giờ là thực dân Pháp xâm lược."
+  },
+  {
+    "id": 222,
+    "question": "Nhiệm vụ trọng tâm \"Củng cố chính quyền, chống thực dân Pháp, bài trừ nội phản, cải thiện đời sống nhân dân\" được nêu trong văn kiện nào?",
+    "options": {
+      "a": "Lời kêu gọi toàn quốc kháng chiến",
+      "b": "Tác phẩm Kháng chiến nhất định thắng lợi",
+      "c": "Chỉ thị Kháng chiến kiến quốc (25/11/1945)",
+      "d": "Hiệp định Sơ bộ 6/3"
+    },
+    "answer": "c",
+    "explanation": "Nhiệm vụ trọng tâm \"Củng cố chính quyền, chống thực dân Pháp, bài trừ nội phản, cải thiện đời sống nhân dân\" được nêu trong Chỉ thị Kháng chiến kiến quốc (25/11/1945)."
+  },
+  {
+    "id": 223,
+    "question": "Từ ngày 2/9/1945 đến trước 6/3/1946, Đảng ta đã thực hiện sách lược gì để tránh xung đột vũ trang với quân Tưởng?",
+    "options": {
+      "a": "Nhượng bộ về quân sự, chia sẻ vũ khí",
+      "b": "Nhân nhượng về kinh tế, chính trị (nhường ghế Quốc hội, Đảng tuyên bố tự giải tán)",
+      "c": "Ký Hiệp định đình chiến",
+      "d": "Nhờ quân Pháp can thiệp"
+    },
+    "answer": "b",
+    "explanation": "Từ 2/9/1945 đến trước 6/3/1946, Đảng ta thực hiện sách lược nhân nhượng về kinh tế, chính trị (nhường ghế Quốc hội, Đảng tuyên bố tự giải tán) để tránh xung đột với quân Tưởng."
+  },
+  {
+    "id": 224,
+    "question": "Để đẩy quân Tưởng về nước và tranh thủ thời gian chuẩn bị lực lượng, từ ngày 6/3/1946 đến trước 19/12/1946, ta đã làm gì?",
+    "options": {
+      "a": "Tổng tấn công quân Tưởng trên toàn quốc",
+      "b": "Hòa hoãn với Pháp bằng việc ký Hiệp định Sơ bộ 6/3 và Tạm ước 14/9",
+      "c": "Nhờ sự can thiệp của Liên Hợp Quốc",
+      "d": "Phát động toàn quốc kháng chiến ngay lập tức"
+    },
+    "answer": "b",
+    "explanation": "Từ 6/3/1946 đến trước 19/12/1946, ta hòa hoãn với Pháp bằng việc ký Hiệp định Sơ bộ 6/3 và Tạm ước 14/9 để đẩy quân Tưởng về nước và tranh thủ thời gian chuẩn bị lực lượng."
+  },
+  {
+    "id": 225,
+    "question": "Trong sách lược hòa hoãn với quân Tưởng, để tránh mũi nhọn tấn công của kẻ thù, Đảng ta đã tuyên bố tự giải tán (thực chất là rút vào hoạt động bí mật) vào ngày tháng năm nào?",
+    "options": {
+      "a": "2/9/1945",
+      "b": "25/11/1945",
+      "c": "11/11/1945",
+      "d": "6/3/1946"
+    },
+    "answer": "c",
+    "explanation": "Ngày 11/11/1945, Đảng ta tuyên bố tự giải tán (thực chất là rút vào hoạt động bí mật) để tránh mũi nhọn tấn công của kẻ thù."
+  },
+  {
+    "id": 226,
+    "question": "Sự kiện Đảng ta tuyên bố tự giải tán (thành lập Hội nghiên cứu Chủ nghĩa Mác ở Đông Dương) ngày 11/11/1945 là hành động nhân nhượng chính trị đối với thế lực nào?",
+    "options": {
+      "a": "Thực dân Pháp",
+      "b": "Phát xít Nhật",
+      "c": "Đế quốc Mỹ",
+      "d": "Quân Tưởng Giới Thạch"
+    },
+    "answer": "d",
+    "explanation": "Việc Đảng tuyên bố tự giải tán ngày 11/11/1945 là hành động nhân nhượng chính trị đối với quân Tưởng Giới Thạch."
+  },
+  {
+    "id": 227,
+    "question": "Trong thời kỳ hòa hoãn với thực dân Pháp (từ 6/3/1946 đến trước 19/12/1946), Chính phủ ta đã ký kết hai văn bản pháp lý quan trọng nào?",
+    "options": {
+      "a": "Hiệp định Geneva và Hiệp định Paris",
+      "b": "Hiệp định Sơ bộ (6/3) và Tạm ước (14/9)",
+      "c": "Hiệp định Sơ bộ và Hiệp định Fontainebleau",
+      "d": "Tạm ước 14/9 và Hiệp định Geneva"
+    },
+    "answer": "b",
+    "explanation": "Trong thời kỳ hòa hoãn với Pháp (từ 6/3/1946 đến trước 19/12/1946), Chính phủ ta đã ký Hiệp định Sơ bộ (6/3) và Tạm ước (14/9)."
+  },
+  {
+    "id": 228,
+    "question": "Bốn nội dung cốt lõi trong đường lối kháng chiến chống thực dân Pháp của Đảng là gì?",
+    "options": {
+      "a": "Toàn dân, toàn diện, thần tốc, táo bạo",
+      "b": "Đánh nhanh thắng nhanh, dựa vào sức mình là chính",
+      "c": "Toàn dân, toàn diện, trường kỳ, tự lực cánh sinh",
+      "d": "Lâu dài, dựa vào viện trợ quốc tế, toàn diện"
+    },
+    "answer": "c",
+    "explanation": "Bốn nội dung cốt lõi trong đường lối kháng chiến chống Pháp là: Toàn dân, toàn diện, trường kỳ, tự lực cánh sinh."
+  },
+  {
+    "id": 229,
+    "question": "Trong đường lối kháng chiến, tư tưởng \"đánh lâu dài\" nhằm tiêu hao sinh lực địch, xây dựng lực lượng ta được tóm gọn trong từ khóa nào?",
+    "options": {
+      "a": "Toàn dân",
+      "b": "Toàn diện",
+      "c": "Trường kỳ",
+      "d": "Tự lực cánh sinh"
+    },
+    "answer": "c",
+    "explanation": "Tư tưởng \"đánh lâu dài\" nhằm tiêu hao sinh lực địch, xây dựng lực lượng ta được tóm gọn trong từ khóa \"Trường kỳ\"."
+  },
+  {
+    "id": 230,
+    "question": "Đặc điểm lớn nhất, bao trùm nhất của cách mạng Việt Nam sau tháng 7/1954 là gì?",
+    "options": {
+      "a": "Đất nước hoàn toàn độc lập, đi lên Chủ nghĩa xã hội",
+      "b": "Một Đảng lãnh đạo thực hiện đồng thời hai nhiệm vụ chiến lược ở hai miền Nam - Bắc",
+      "c": "Cả nước tập trung khắc phục hậu quả chiến tranh",
+      "d": "Miền Nam hoàn toàn giải phóng"
+    },
+    "answer": "b",
+    "explanation": "Đặc điểm lớn nhất, bao trùm nhất của cách mạng Việt Nam sau tháng 7/1954 là: Một Đảng lãnh đạo thực hiện đồng thời hai nhiệm vụ chiến lược ở hai miền Nam - Bắc."
+  },
+  {
+    "id": 231,
+    "question": "Bối cảnh \"Miền Bắc tiến hành cách mạng Xã hội chủ nghĩa, miền Nam tiến hành cách mạng Dân tộc dân chủ nhân dân dưới sự lãnh đạo của một Đảng\" diễn ra vào thời kỳ nào?",
+    "options": {
+      "a": "Sau năm 1945",
+      "b": "Sau tháng 7/1954 (Hiệp định Geneva)",
+      "c": "Sau năm 1968",
+      "d": "Sau năm 1975"
+    },
+    "answer": "b",
+    "explanation": "Bối cảnh hai miền thực hiện hai nhiệm vụ chiến lược khác nhau diễn ra sau tháng 7/1954 (Hiệp định Geneva)."
+  },
+  {
+    "id": 232,
+    "question": "Nghị quyết 15 (tháng 1/1959) khẳng định con đường cơ bản để giải phóng miền Nam là gì?",
+    "options": {
+      "a": "Đấu tranh chính trị hòa bình",
+      "b": "Đấu tranh ngoại giao",
+      "c": "Sử dụng bạo lực cách mạng",
+      "d": "Trông chờ vào sự sụp đổ của ngụy quyền"
+    },
+    "answer": "c",
+    "explanation": "Nghị quyết 15 (tháng 1/1959) khẳng định con đường cơ bản để giải phóng miền Nam là sử dụng bạo lực cách mạng."
+  },
+  {
+    "id": 233,
+    "question": "Sự chuyển hướng chiến lược: từ đấu tranh chính trị đơn thuần sang kết hợp đấu tranh chính trị với đấu tranh vũ trang ở miền Nam được đánh dấu bằng nghị quyết nào?",
+    "options": {
+      "a": "Nghị quyết Đại hội III",
+      "b": "Nghị quyết Hội nghị Trung ương 11",
+      "c": "Nghị quyết 15 của Ban Chấp hành Trung ương Đảng (khóa II)",
+      "d": "Nghị quyết Hội nghị Trung ương 21"
+    },
+    "answer": "c",
+    "explanation": "Nghị quyết 15 của Ban Chấp hành Trung ương Đảng (khóa II) đánh dấu sự chuyển hướng chiến lược từ đấu tranh chính trị đơn thuần sang kết hợp đấu tranh chính trị với đấu tranh vũ trang ở miền Nam."
+  },
+  {
+    "id": 234,
+    "question": "Đường lối kháng chiến chống Mỹ cứu nước trên phạm vi cả nước được Đảng ta đề ra tại các Hội nghị nào?",
+    "options": {
+      "a": "Hội nghị Trung ương 15 (khóa II)",
+      "b": "Hội nghị Trung ương 11 và 12 (khóa III, năm 1965)",
+      "c": "Đại hội đại biểu toàn quốc lần thứ III",
+      "d": "Hội nghị Bộ Chính trị (1974)"
+    },
+    "answer": "b",
+    "explanation": "Đường lối kháng chiến chống Mỹ cứu nước trên phạm vi cả nước được Đảng ta đề ra tại Hội nghị Trung ương 11 và 12 (khóa III, năm 1965)."
+  },
+  {
+    "id": 235,
+    "question": "Trật tự thời gian đúng của các chiến lược chiến tranh mà Mỹ tiến hành tại Việt Nam là gì?",
+    "options": {
+      "a": "Cục bộ -> Đặc biệt -> Đơn phương -> Việt Nam hóa",
+      "b": "Đặc biệt -> Đơn phương -> Việt Nam hóa -> Cục bộ",
+      "c": "Đơn phương -> Đặc biệt -> Cục bộ -> Việt Nam hóa",
+      "d": "Đơn phương -> Cục bộ -> Đặc biệt -> Việt Nam hóa"
+    },
+    "answer": "c",
+    "explanation": "Trật tự đúng các chiến lược chiến tranh của Mỹ tại Việt Nam là: Đơn phương -> Đặc biệt -> Cục bộ -> Việt Nam hóa."
+  },
+  {
+    "id": 236,
+    "question": "Mỹ buộc phải chuyển sang chiến lược \"Chiến tranh cục bộ\" (1965-1968) do sự phá sản của chiến lược nào trước đó?",
+    "options": {
+      "a": "Chiến tranh đơn phương",
+      "b": "Chiến tranh đặc biệt",
+      "c": "Việt Nam hóa chiến tranh",
+      "d": "Chiến tranh lạnh"
+    },
+    "answer": "b",
+    "explanation": "Mỹ buộc phải chuyển sang \"Chiến tranh cục bộ\" (1965-1968) do sự phá sản của chiến lược \"Chiến tranh đặc biệt\" trước đó."
+  },
+  {
+    "id": 237,
+    "question": "Ý nghĩa chiến lược vĩ đại nhất của cuộc Tổng tiến công và nổi dậy Tết Mậu Thân (1968) là gì?",
+    "options": {
+      "a": "Giải phóng hoàn toàn miền Nam",
+      "b": "Buộc Mỹ phải ký Hiệp định Geneva",
+      "c": "Làm phá sản chiến lược \"Chiến tranh cục bộ\", buộc Mỹ ngồi vào bàn đàm phán Paris",
+      "d": "Đánh đổ hoàn toàn chính quyền Sài Gòn"
+    },
+    "answer": "c",
+    "explanation": "Ý nghĩa chiến lược vĩ đại nhất của Tổng tiến công và nổi dậy Tết Mậu Thân (1968) là làm phá sản chiến lược \"Chiến tranh cục bộ\", buộc Mỹ ngồi vào bàn đàm phán Paris."
+  },
+  {
+    "id": 238,
+    "question": "Sự kiện nào đã đánh đòn quyết định buộc đế quốc Mỹ phải tuyên bố \"xuống thang chiến tranh\" và ngừng ném bom miền Bắc?",
+    "options": {
+      "a": "Chiến thắng Ấp Bắc (1963)",
+      "b": "Chiến thắng Vạn Tường (1965)",
+      "c": "Tổng tiến công và nổi dậy Tết Mậu Thân (1968)",
+      "d": "Điện Biên Phủ trên không (1972)"
+    },
+    "answer": "c",
+    "explanation": "Tổng tiến công và nổi dậy Tết Mậu Thân (1968) đã buộc Mỹ phải tuyên bố \"xuống thang chiến tranh\" và ngừng ném bom miền Bắc."
+  },
+  {
+    "id": 239,
+    "question": "Cơ quan lãnh đạo nào đã đưa ra chủ trương giải phóng miền Nam trong 2 năm 1975-1976?",
+    "options": {
+      "a": "Ban Chấp hành Trung ương Đảng",
+      "b": "Hội nghị Bộ Chính trị (cuối 1974 - đầu 1975)",
+      "c": "Quân ủy Trung ương",
+      "d": "Mặt trận Dân tộc giải phóng miền Nam Việt Nam"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị Bộ Chính trị (cuối 1974 - đầu 1975) đã đưa ra chủ trương giải phóng miền Nam trong 2 năm 1975-1976."
+  },
+  {
+    "id": 240,
+    "question": "Kế hoạch chiến lược giải phóng miền Nam trong 2 năm 1975-1976 được vạch ra tại Hội nghị Bộ Chính trị trong khoảng thời gian nào?",
+    "options": {
+      "a": "Đầu năm 1973",
+      "b": "Giữa năm 1974",
+      "c": "Cuối năm 1974 - đầu năm 1975",
+      "d": "Tháng 3 năm 1975"
+    },
+    "answer": "c",
+    "explanation": "Kế hoạch chiến lược giải phóng miền Nam trong 2 năm 1975-1976 được vạch ra tại Hội nghị Bộ Chính trị cuối năm 1974 - đầu năm 1975."
+  },
+  {
+    "id": 241,
+    "question": "Quyết định điều chỉnh kế hoạch chiến lược: \"Chuyển sang phương án giải phóng miền Nam ngay trong năm 1975\" (thay vì 2 năm) được Bộ Chính trị đưa ra ngay sau thắng lợi của chiến dịch nào?",
+    "options": {
+      "a": "Chiến dịch Tây Nguyên",
+      "b": "Chiến thắng Phước Long (đầu năm 1975)",
+      "c": "Chiến dịch Huế - Đà Nẵng",
+      "d": "Chiến dịch Hồ Chí Minh"
+    },
+    "answer": "b",
+    "explanation": "Sau chiến thắng Phước Long (đầu năm 1975), Bộ Chính trị đã quyết định chuyển sang phương án giải phóng miền Nam ngay trong năm 1975."
+  },
+  {
+    "id": 242,
+    "question": "Sau chiến thắng Phước Long (tháng 1/1975), nhận thấy thời cơ chiến lược đã đến, Bộ Chính trị đã ra quyết định lịch sử gì?",
+    "options": {
+      "a": "Đề ra kế hoạch giải phóng miền Nam trong 2 năm 1975 - 1976",
+      "b": "Ký Hiệp định Paris",
+      "c": "Quyết tâm giải phóng miền Nam ngay trong năm 1975",
+      "d": "Mở chiến dịch Tây Nguyên"
+    },
+    "answer": "c",
+    "explanation": "Sau chiến thắng Phước Long (tháng 1/1975), Bộ Chính trị đã quyết tâm giải phóng miền Nam ngay trong năm 1975."
+  }
+]
