@@ -104,6 +104,7 @@ const buildQuestionSet = (topics, desiredCount) => {
 
 // LocalStorage helpers
 const HISTORY_KEY = "quiz_history";
+const QUIZ_STATE_KEY = "quiz_in_progress";
 
 const loadHistory = () => {
   try {
@@ -122,6 +123,35 @@ const saveHistory = (history) => {
   }
 };
 
+const loadQuizState = () => {
+  try {
+    const data = localStorage.getItem(QUIZ_STATE_KEY);
+    return data ? JSON.parse(data) : null;
+  } catch {
+    return null;
+  }
+};
+
+const saveQuizState = (state) => {
+  try {
+    if (state) {
+      localStorage.setItem(QUIZ_STATE_KEY, JSON.stringify(state));
+    } else {
+      localStorage.removeItem(QUIZ_STATE_KEY);
+    }
+  } catch {
+    console.warn("Không thể lưu trạng thái bài thi vào localStorage");
+  }
+};
+
+const clearQuizState = () => {
+  try {
+    localStorage.removeItem(QUIZ_STATE_KEY);
+  } catch {
+    // ignore
+  }
+};
+
 const formatDate = (timestamp) => {
   const date = new Date(timestamp);
   return date.toLocaleString("vi-VN", {
@@ -135,22 +165,36 @@ const formatDate = (timestamp) => {
 
 function App() {
   const topics = useMemo(() => buildTopics(), []);
+  const savedQuizState = useMemo(() => loadQuizState(), []);
+  
   const [selectedTopics, setSelectedTopics] = useState(() =>
     topics.map((topic) => topic.id),
   );
   const [questionCount, setQuestionCount] = useState(30);
-  const [phase, setPhase] = useState("setup"); // "setup", "quiz", "history", "history-detail"
-  const [quizQuestions, setQuizQuestions] = useState([]);
-  const [answers, setAnswers] = useState({});
-  const [remainingSeconds, setRemainingSeconds] = useState(0);
-  const [timeUp, setTimeUp] = useState(false);
+  const [phase, setPhase] = useState(() => 
+    savedQuizState && !savedQuizState.completed ? "quiz" : "setup"
+  );
+  const [quizQuestions, setQuizQuestions] = useState(() => 
+    savedQuizState?.questions || []
+  );
+  const [answers, setAnswers] = useState(() => 
+    savedQuizState?.answers || {}
+  );
+  const [remainingSeconds, setRemainingSeconds] = useState(() => 
+    savedQuizState?.remainingSeconds || 0
+  );
+  const [timeUp, setTimeUp] = useState(() => 
+    savedQuizState?.timeUp || false
+  );
   const [showReview, setShowReview] = useState(false);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
-  const [currentIndex, setCurrentIndex] = useState(0);
+  const [currentIndex, setCurrentIndex] = useState(() => 
+    savedQuizState?.currentIndex || 0
+  );
   const [reviewFilter, setReviewFilter] = useState("all"); // "all", "correct", "wrong"
   const [history, setHistory] = useState(() => loadHistory());
   const [selectedHistoryItem, setSelectedHistoryItem] = useState(null);
-  const hasSavedRef = useRef(false);
+  const hasSavedRef = useRef(savedQuizState?.completed || false);
   const answersRef = useRef(answers);
 
   const groupedTopics = useMemo(() => {
@@ -253,6 +297,22 @@ function App() {
     return () => clearInterval(timer);
   }, [phase, remainingSeconds, allAnswered, handleSaveResult]);
 
+  // Save quiz state to localStorage whenever relevant state changes
+  useEffect(() => {
+    if (phase === "quiz" && quizQuestions.length > 0) {
+      const isCompleted = timeUp || Object.keys(answers).length === quizQuestions.length;
+      saveQuizState({
+        questions: quizQuestions,
+        answers,
+        currentIndex,
+        remainingSeconds,
+        timeUp,
+        completed: isCompleted,
+        savedAt: Date.now(),
+      });
+    }
+  }, [phase, quizQuestions, answers, currentIndex, remainingSeconds, timeUp]);
+
   const handleToggleTopic = (topicId) => {
     setSelectedTopics((prev) => {
       const next = prev.includes(topicId)
@@ -312,6 +372,7 @@ function App() {
   };
 
   const handleReset = () => {
+    clearQuizState();
     setPhase("setup");
     setQuizQuestions([]);
     setAnswers({});
