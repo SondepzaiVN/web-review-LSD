@@ -1,7 +1,7 @@
 [
   {
     "id": 46,
-    "question": "Đại hội IV chủ trương ưu tiên phát triển lĩnh vực nào một cách hợp lý?",
+    "question": "Đại hội IV chủ trương ưu tiên phát triển lĩnh vực nào một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ?",
     "options": {
       "a": "Nông nghiệp",
       "b": "Công nghiệp nhẹ",
@@ -9,7 +9,7 @@
       "d": "Dịch vụ"
     },
     "answer": "c",
-    "explanation": "Đại hội IV chủ trương ưu tiên phát triển công nghiệp nặng một cách hợp lý."
+    "explanation": "Đại hội IV chủ trương: Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ."
   },
   {
     "id": 47,
@@ -73,7 +73,7 @@
   },
   {
     "id": 113,
-    "question": "Đại hội nào chủ trương ưu tiên phát triển công nghiệp nặng?",
+    "question": "Đại hội nào chủ trương: \"Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ\"?",
     "options": {
       "a": "Đại hội III",
       "b": "Đại hội IV",
@@ -81,7 +81,7 @@
       "d": "Đại hội VI"
     },
     "answer": "b",
-    "explanation": "Đại hội IV chủ trương ưu tiên phát triển công nghiệp nặng một cách hợp lý."
+    "explanation": "Đại hội IV chủ trương ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ."
   },
   {
     "id": 114,

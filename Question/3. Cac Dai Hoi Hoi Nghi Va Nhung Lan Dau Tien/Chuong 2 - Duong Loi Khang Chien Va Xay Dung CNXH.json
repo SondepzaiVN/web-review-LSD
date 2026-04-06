@@ -262,5 +262,29 @@
     },
     "answer": "c",
     "explanation": "Sau chiến thắng Phước Long (tháng 1/1975), Bộ Chính trị đã quyết tâm giải phóng miền Nam ngay trong năm 1975."
+  },
+  {
+    "id": 243,
+    "question": "Văn bản nào được coi là \"bước nhân nhượng cuối cùng\" của ta với thực dân Pháp?",
+    "options": {
+      "a": "Hiệp định Sơ bộ 6/3/1946",
+      "b": "Tạm ước 14/9/1946",
+      "c": "Hiệp định Geneva 1954",
+      "d": "Hiệp định Paris 1973"
+    },
+    "answer": "b",
+    "explanation": "Tạm ước 14/9 là một bước nhân nhượng cuối cùng. Nhân nhượng nữa là phạm đến chủ quyền của nước, là hại quyền lợi cao trọng của dân tộc."
+  },
+  {
+    "id": 244,
+    "question": "\"Tạm ước 14/9 là một bước nhân nhượng cuối cùng. Nhân nhượng nữa là phạm đến chủ quyền của nước, là hại quyền lợi cao trọng của dân tộc!\" - câu này nói về văn bản nào?",
+    "options": {
+      "a": "Hiệp định Sơ bộ 6/3",
+      "b": "Tạm ước 14/9",
+      "c": "Hiệp định Geneva",
+      "d": "Hiệp định Paris"
+    },
+    "answer": "b",
+    "explanation": "Câu trên nói về Tạm ước 14/9/1946 - văn bản được coi là bước nhân nhượng cuối cùng của ta."
   }
 ]

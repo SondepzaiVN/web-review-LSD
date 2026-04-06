@@ -1,0 +1,122 @@
+[
+  {
+    "id": 301,
+    "question": "Việt Nam ra khỏi khủng hoảng kinh tế - xã hội vào năm nào?",
+    "options": {
+      "a": "1990",
+      "b": "1996",
+      "c": "2000",
+      "d": "2008"
+    },
+    "answer": "b",
+    "explanation": "Năm 1996, Việt Nam ra khỏi khủng hoảng kinh tế - xã hội."
+  },
+  {
+    "id": 302,
+    "question": "Sự kiện nào đánh dấu Việt Nam ra khỏi khủng hoảng kinh tế - xã hội xảy ra vào năm 1996?",
+    "options": {
+      "a": "Gia nhập WTO",
+      "b": "Bình thường hóa quan hệ với Mỹ",
+      "c": "Ra khỏi khủng hoảng kinh tế - xã hội",
+      "d": "Ra khỏi tình trạng nước nghèo"
+    },
+    "answer": "c",
+    "explanation": "Năm 1996, Việt Nam ra khỏi khủng hoảng kinh tế - xã hội."
+  },
+  {
+    "id": 303,
+    "question": "Việt Nam ra khỏi tình trạng nước nghèo, kém phát triển vào năm nào?",
+    "options": {
+      "a": "1996",
+      "b": "2000",
+      "c": "2008",
+      "d": "2010"
+    },
+    "answer": "c",
+    "explanation": "Năm 2008, Việt Nam ra khỏi tình trạng nước nghèo, kém phát triển."
+  },
+  {
+    "id": 304,
+    "question": "Năm 2008 đánh dấu mốc quan trọng nào trong quá trình phát triển của Việt Nam?",
+    "options": {
+      "a": "Ra khỏi khủng hoảng kinh tế - xã hội",
+      "b": "Ra khỏi tình trạng nước nghèo, kém phát triển",
+      "c": "Trở thành nước có thu nhập trung bình cao",
+      "d": "Gia nhập WTO"
+    },
+    "answer": "b",
+    "explanation": "Năm 2008, Việt Nam ra khỏi tình trạng nước nghèo, kém phát triển."
+  },
+  {
+    "id": 305,
+    "question": "GDP bình quân đầu người của Việt Nam năm 2025 đạt bao nhiêu?",
+    "options": {
+      "a": "4.000 USD/người",
+      "b": "4.500 USD/người",
+      "c": "5.026 USD/người",
+      "d": "5.500 USD/người"
+    },
+    "answer": "c",
+    "explanation": "GDP bình quân đầu người của Việt Nam năm 2025 đạt 5.026 USD/người."
+  },
+  {
+    "id": 306,
+    "question": "Con số 5.026 USD/người là chỉ tiêu gì của Việt Nam năm 2025?",
+    "options": {
+      "a": "Thu nhập bình quân",
+      "b": "GDP bình quân đầu người",
+      "c": "Kim ngạch xuất khẩu bình quân",
+      "d": "Vốn đầu tư bình quân"
+    },
+    "answer": "b",
+    "explanation": "5.026 USD/người là GDP bình quân đầu người của Việt Nam năm 2025."
+  },
+  {
+    "id": 307,
+    "question": "Tính đến nay, Việt Nam đã thiết lập quan hệ đối tác chiến lược toàn diện với bao nhiêu nước?",
+    "options": {
+      "a": "10 đối tác",
+      "b": "13 đối tác",
+      "c": "15 đối tác",
+      "d": "17 đối tác"
+    },
+    "answer": "c",
+    "explanation": "Việt Nam đã thiết lập quan hệ đối tác chiến lược toàn diện với 15 đối tác."
+  },
+  {
+    "id": 308,
+    "question": "Con số 15 đối tác gắn liền với thành tựu đối ngoại nào của Việt Nam?",
+    "options": {
+      "a": "Số nước có quan hệ ngoại giao",
+      "b": "Số đối tác chiến lược",
+      "c": "Số đối tác chiến lược toàn diện",
+      "d": "Số đối tác toàn diện"
+    },
+    "answer": "c",
+    "explanation": "15 là số đối tác chiến lược toàn diện mà Việt Nam đã thiết lập."
+  },
+  {
+    "id": 309,
+    "question": "Nghị quyết 80 của Bộ Chính trị (7/1/2026) ban hành về vấn đề gì?",
+    "options": {
+      "a": "Phát triển kinh tế số",
+      "b": "Phát triển văn hóa Việt Nam",
+      "c": "Đổi mới giáo dục",
+      "d": "Bảo vệ môi trường"
+    },
+    "answer": "b",
+    "explanation": "Nghị quyết 80 của Bộ Chính trị (7/1/2026) ban hành về phát triển văn hóa Việt Nam."
+  },
+  {
+    "id": 310,
+    "question": "Văn kiện nào của Bộ Chính trị ban hành ngày 7/1/2026 về phát triển văn hóa Việt Nam?",
+    "options": {
+      "a": "Nghị quyết 13",
+      "b": "Nghị quyết 15",
+      "c": "Nghị quyết 80",
+      "d": "Nghị quyết 100"
+    },
+    "answer": "c",
+    "explanation": "Nghị quyết 80 của Bộ Chính trị (7/1/2026) về phát triển văn hóa Việt Nam."
+  }
+]

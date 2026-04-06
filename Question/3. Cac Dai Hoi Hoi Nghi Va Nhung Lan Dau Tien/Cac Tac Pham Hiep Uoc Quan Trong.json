@@ -1,0 +1,170 @@
+[
+  {
+    "id": 319,
+    "question": "Tác phẩm nào là văn kiện lý luận quan trọng về xây dựng Đảng và công tác mặt trận thống nhất trong đấu tranh cách mạng ở Việt Nam?",
+    "options": {
+      "a": "Đường Kách mệnh",
+      "b": "Tự chỉ trích",
+      "c": "Bản án chế độ thực dân Pháp",
+      "d": "Kháng chiến nhất định thắng lợi"
+    },
+    "answer": "b",
+    "explanation": "Tác phẩm \"Tự chỉ trích\" là văn kiện lý luận quan trọng về xây dựng Đảng và công tác mặt trận thống nhất trong đấu tranh cách mạng."
+  },
+  {
+    "id": 320,
+    "question": "\"Tự chỉ trích\" là tác phẩm có ý nghĩa gì trong lịch sử Đảng?",
+    "options": {
+      "a": "Văn kiện về đường lối kháng chiến",
+      "b": "Văn kiện lý luận về xây dựng Đảng và công tác mặt trận thống nhất",
+      "c": "Văn kiện về chính sách kinh tế",
+      "d": "Văn kiện về đối ngoại"
+    },
+    "answer": "b",
+    "explanation": "\"Tự chỉ trích\" là văn kiện lý luận quan trọng về xây dựng Đảng và công tác vận động thành lập mặt trận thống nhất rộng rãi."
+  },
+  {
+    "id": 321,
+    "question": "Hiệp ước Patenôtre được ký kết vào ngày tháng năm nào?",
+    "options": {
+      "a": "25/8/1883",
+      "b": "6/6/1884",
+      "c": "5/6/1862",
+      "d": "15/3/1874"
+    },
+    "answer": "b",
+    "explanation": "Hiệp ước Patenôtre được ký vào ngày 6/6/1884."
+  },
+  {
+    "id": 322,
+    "question": "Ngày 6/6/1884 gắn liền với việc ký kết hiệp ước nào giữa triều đình nhà Nguyễn và Pháp?",
+    "options": {
+      "a": "Hiệp ước Harmand",
+      "b": "Hiệp ước Patenôtre",
+      "c": "Hiệp ước Nhâm Tuất",
+      "d": "Hiệp ước Giáp Tuất"
+    },
+    "answer": "b",
+    "explanation": "Ngày 6/6/1884, Hiệp ước Patenôtre được ký kết giữa triều đình nhà Nguyễn và Pháp."
+  },
+  {
+    "id": 323,
+    "question": "Hiệp ước Harmand được ký kết vào ngày tháng năm nào?",
+    "options": {
+      "a": "6/6/1884",
+      "b": "25/8/1883",
+      "c": "5/6/1862",
+      "d": "15/3/1874"
+    },
+    "answer": "b",
+    "explanation": "Hiệp ước Harmand được ký vào ngày 25/8/1883."
+  },
+  {
+    "id": 324,
+    "question": "Ngày 25/8/1883 gắn liền với việc ký kết hiệp ước nào?",
+    "options": {
+      "a": "Hiệp ước Patenôtre",
+      "b": "Hiệp ước Harmand",
+      "c": "Hiệp ước Nhâm Tuất",
+      "d": "Hiệp ước Giáp Tuất"
+    },
+    "answer": "b",
+    "explanation": "Ngày 25/8/1883, Hiệp ước Harmand được ký kết."
+  },
+  {
+    "id": 325,
+    "question": "Sự kiện nào đánh dấu bước chuyển trong lập trường tư tưởng của Phan Bội Châu từ quân chủ sang dân chủ tư sản?",
+    "options": {
+      "a": "Thành lập Duy Tân Hội năm 1904",
+      "b": "Phong trào Đông Du 1905",
+      "c": "Thành lập Việt Nam Quang phục Hội năm 1912",
+      "d": "Viết tác phẩm \"Hải ngoại huyết thư\""
+    },
+    "answer": "c",
+    "explanation": "Việc thành lập Việt Nam Quang phục Hội năm 1912 đánh dấu bước chuyển trong lập trường tư tưởng của Phan Bội Châu từ quân chủ sang dân chủ tư sản."
+  },
+  {
+    "id": 326,
+    "question": "Việt Nam Quang phục Hội được thành lập năm 1912 có ý nghĩa gì đối với Phan Bội Châu?",
+    "options": {
+      "a": "Khẳng định con đường bạo động vũ trang",
+      "b": "Đánh dấu bước chuyển từ lập trường quân chủ sang dân chủ tư sản",
+      "c": "Mở đầu phong trào Đông Du",
+      "d": "Khởi đầu hợp tác với Nhật Bản"
+    },
+    "answer": "b",
+    "explanation": "Thành lập Việt Nam Quang phục Hội năm 1912 đánh dấu bước chuyển trong lập trường tư tưởng của Phan Bội Châu từ quân chủ sang dân chủ tư sản."
+  },
+  {
+    "id": 327,
+    "question": "Tác phẩm \"Bản án chế độ thực dân Pháp\" được Nguyễn Ái Quốc xuất bản năm nào?",
+    "options": {
+      "a": "1920",
+      "b": "1923",
+      "c": "1925",
+      "d": "1927"
+    },
+    "answer": "c",
+    "explanation": "Tác phẩm \"Bản án chế độ thực dân Pháp\" được Nguyễn Ái Quốc xuất bản năm 1925."
+  },
+  {
+    "id": 328,
+    "question": "Năm 1925, Nguyễn Ái Quốc xuất bản tác phẩm nào tố cáo tội ác của chủ nghĩa thực dân?",
+    "options": {
+      "a": "Đường Kách mệnh",
+      "b": "Nhật ký trong tù",
+      "c": "Bản án chế độ thực dân Pháp",
+      "d": "Tuyên ngôn độc lập"
+    },
+    "answer": "c",
+    "explanation": "Năm 1925, Nguyễn Ái Quốc xuất bản \"Bản án chế độ thực dân Pháp\" tố cáo tội ác của chủ nghĩa thực dân."
+  },
+  {
+    "id": 329,
+    "question": "Tác phẩm \"Đường Kách mệnh\" thể hiện nội dung gì?",
+    "options": {
+      "a": "Tố cáo tội ác thực dân",
+      "b": "Những nội dung cơ bản về đường lối cách mạng Việt Nam",
+      "c": "Đường lối kháng chiến chống Pháp",
+      "d": "Lý luận về xây dựng Đảng"
+    },
+    "answer": "b",
+    "explanation": "Tác phẩm \"Đường Kách mệnh\" thể hiện những nội dung cơ bản về đường lối cách mạng Việt Nam."
+  },
+  {
+    "id": 330,
+    "question": "Tác phẩm nào thể hiện những nội dung cơ bản về đường lối cách mạng Việt Nam?",
+    "options": {
+      "a": "Bản án chế độ thực dân Pháp",
+      "b": "Tự chỉ trích",
+      "c": "Đường Kách mệnh",
+      "d": "Kháng chiến nhất định thắng lợi"
+    },
+    "answer": "c",
+    "explanation": "Tác phẩm \"Đường Kách mệnh\" thể hiện những nội dung cơ bản về đường lối cách mạng Việt Nam."
+  },
+  {
+    "id": 331,
+    "question": "Hội Việt Nam Cách mạng Thanh niên lấy tờ báo nào làm cơ quan ngôn luận?",
+    "options": {
+      "a": "Báo Nhân dân",
+      "b": "Báo Thanh niên",
+      "c": "Báo Tiền phong",
+      "d": "Báo Lao động"
+    },
+    "answer": "b",
+    "explanation": "Hội Việt Nam Cách mạng Thanh niên lấy Báo Thanh niên làm cơ quan ngôn luận."
+  },
+  {
+    "id": 332,
+    "question": "Báo Thanh niên là cơ quan ngôn luận của tổ chức nào?",
+    "options": {
+      "a": "Đảng Cộng sản Việt Nam",
+      "b": "Hội Việt Nam Cách mạng Thanh niên",
+      "c": "Việt Nam Quang phục Hội",
+      "d": "Duy Tân Hội"
+    },
+    "answer": "b",
+    "explanation": "Báo Thanh niên là cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên."
+  }
+]

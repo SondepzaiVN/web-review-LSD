@@ -1,0 +1,194 @@
+[
+  {
+    "id": 333,
+    "question": "Trong chiến lược \"Chiến tranh đặc biệt\", yếu tố nào được Mỹ coi là \"xương sống\"?",
+    "options": {
+      "a": "Quân đội Sài Gòn",
+      "b": "Ấp chiến lược",
+      "c": "Cố vấn Mỹ",
+      "d": "Vũ khí hiện đại"
+    },
+    "answer": "b",
+    "explanation": "Ấp chiến lược được Mỹ coi là \"xương sống\" của chiến lược Chiến tranh đặc biệt."
+  },
+  {
+    "id": 334,
+    "question": "\"Xương sống\" của chiến lược Chiến tranh đặc biệt là gì?",
+    "options": {
+      "a": "Quân đội ngụy",
+      "b": "Cố vấn quân sự Mỹ",
+      "c": "Ấp chiến lược",
+      "d": "Máy bay trực thăng"
+    },
+    "answer": "c",
+    "explanation": "Ấp chiến lược được coi là \"xương sống\" của chiến lược Chiến tranh đặc biệt."
+  },
+  {
+    "id": 335,
+    "question": "Chiến thắng nào mở đầu cho sự phá sản của chiến lược Chiến tranh đặc biệt?",
+    "options": {
+      "a": "Chiến thắng Vạn Tường",
+      "b": "Chiến thắng Ấp Bắc",
+      "c": "Chiến thắng Bình Giã",
+      "d": "Chiến thắng Ba Gia"
+    },
+    "answer": "b",
+    "explanation": "Chiến thắng Ấp Bắc (1963) mở đầu cho sự phá sản của chiến lược Chiến tranh đặc biệt."
+  },
+  {
+    "id": 336,
+    "question": "Chiến thắng Ấp Bắc (1963) có ý nghĩa gì?",
+    "options": {
+      "a": "Kết thúc chiến tranh đơn phương",
+      "b": "Mở đầu cho sự phá sản của chiến lược Chiến tranh đặc biệt",
+      "c": "Đánh bại chiến lược Việt Nam hóa chiến tranh",
+      "d": "Buộc Mỹ rút quân về nước"
+    },
+    "answer": "b",
+    "explanation": "Chiến thắng Ấp Bắc mở đầu cho sự phá sản của chiến lược Chiến tranh đặc biệt."
+  },
+  {
+    "id": 337,
+    "question": "Hội nghị TW 9 (khóa III) nêu lên nhiệm vụ nào giữ vai trò quyết định trực tiếp?",
+    "options": {
+      "a": "Đấu tranh chính trị",
+      "b": "Đấu tranh ngoại giao",
+      "c": "Đấu tranh vũ trang",
+      "d": "Đấu tranh kinh tế"
+    },
+    "answer": "c",
+    "explanation": "Hội nghị TW 9 nêu lên nhiệm vụ đấu tranh vũ trang đóng vai trò quyết định trực tiếp."
+  },
+  {
+    "id": 338,
+    "question": "Vai trò \"quyết định trực tiếp\" của đấu tranh vũ trang được nêu lên tại Hội nghị nào?",
+    "options": {
+      "a": "Hội nghị TW 8 (khóa III)",
+      "b": "Hội nghị TW 9 (khóa III)",
+      "c": "Hội nghị TW 11 (khóa III)",
+      "d": "Hội nghị TW 12 (khóa III)"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 9 (khóa III) nêu lên đấu tranh vũ trang đóng vai trò quyết định trực tiếp."
+  },
+  {
+    "id": 339,
+    "question": "Ai là người đại diện Chính phủ Việt Nam Dân chủ Cộng hòa ký Hiệp định Paris năm 1973?",
+    "options": {
+      "a": "Lê Đức Thọ",
+      "b": "Nguyễn Duy Trinh",
+      "c": "Xuân Thủy",
+      "d": "Phạm Văn Đồng"
+    },
+    "answer": "b",
+    "explanation": "Nguyễn Duy Trinh là người đại diện Chính phủ Việt Nam Dân chủ Cộng hòa ký Hiệp định Paris."
+  },
+  {
+    "id": 340,
+    "question": "Nguyễn Duy Trinh gắn liền với vai trò gì trong Hiệp định Paris 1973?",
+    "options": {
+      "a": "Trưởng đoàn đàm phán",
+      "b": "Cố vấn đặc biệt",
+      "c": "Người đại diện ký Hiệp định",
+      "d": "Phiên dịch viên"
+    },
+    "answer": "c",
+    "explanation": "Nguyễn Duy Trinh là người đại diện Chính phủ Việt Nam Dân chủ Cộng hòa ký Hiệp định Paris."
+  },
+  {
+    "id": 341,
+    "question": "Hội nghị TW 18 (khóa III) đề ra chủ trương chống chiến lược nào của Mỹ?",
+    "options": {
+      "a": "Chiến tranh đơn phương",
+      "b": "Chiến tranh đặc biệt",
+      "c": "Chiến tranh cục bộ",
+      "d": "Việt Nam hóa chiến tranh"
+    },
+    "answer": "d",
+    "explanation": "Hội nghị TW 18 (khóa III) đề ra chủ trương chống chiến lược Việt Nam hóa chiến tranh."
+  },
+  {
+    "id": 342,
+    "question": "Chủ trương chống chiến lược \"Việt Nam hóa chiến tranh\" được đề ra tại Hội nghị nào?",
+    "options": {
+      "a": "Hội nghị TW 15 (khóa III)",
+      "b": "Hội nghị TW 18 (khóa III)",
+      "c": "Hội nghị TW 21 (khóa III)",
+      "d": "Hội nghị TW 24 (khóa III)"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 18 (khóa III) đề ra chủ trương chống chiến lược Việt Nam hóa chiến tranh."
+  },
+  {
+    "id": 343,
+    "question": "Hội nghị 21 (khóa III) khẳng định con đường cách mạng miền Nam là gì?",
+    "options": {
+      "a": "Đấu tranh chính trị hòa bình",
+      "b": "Đấu tranh ngoại giao",
+      "c": "Bạo lực cách mạng",
+      "d": "Tổng khởi nghĩa"
+    },
+    "answer": "c",
+    "explanation": "Hội nghị 21 (khóa III) khẳng định con đường cách mạng miền Nam là bạo lực cách mạng."
+  },
+  {
+    "id": 344,
+    "question": "\"Bạo lực cách mạng\" là con đường cách mạng miền Nam được khẳng định tại Hội nghị nào?",
+    "options": {
+      "a": "Hội nghị 15 (khóa II)",
+      "b": "Hội nghị 18 (khóa III)",
+      "c": "Hội nghị 21 (khóa III)",
+      "d": "Hội nghị Bộ Chính trị 1974"
+    },
+    "answer": "c",
+    "explanation": "Hội nghị 21 (khóa III) khẳng định con đường cách mạng miền Nam là bạo lực cách mạng."
+  },
+  {
+    "id": 345,
+    "question": "Ngày 25/3/1975, Bộ Chính trị quyết định điều gì?",
+    "options": {
+      "a": "Mở chiến dịch Tây Nguyên",
+      "b": "Bổ sung phương án giải phóng miền Nam trước mùa mưa",
+      "c": "Đặt tên chiến dịch Hồ Chí Minh",
+      "d": "Tổng tấn công Sài Gòn"
+    },
+    "answer": "b",
+    "explanation": "Ngày 25/3/1975, Bộ Chính trị bổ sung phương án giải phóng miền Nam trước mùa mưa."
+  },
+  {
+    "id": 346,
+    "question": "Phương án \"giải phóng miền Nam trước mùa mưa\" được Bộ Chính trị bổ sung vào ngày nào?",
+    "options": {
+      "a": "1/3/1975",
+      "b": "10/3/1975",
+      "c": "25/3/1975",
+      "d": "14/4/1975"
+    },
+    "answer": "c",
+    "explanation": "Ngày 25/3/1975, Bộ Chính trị bổ sung phương án giải phóng miền Nam trước mùa mưa."
+  },
+  {
+    "id": 347,
+    "question": "Ngày 14/4/1975, Bộ Chính trị quyết định đặt tên chiến dịch giải phóng Sài Gòn - Gia Định là gì?",
+    "options": {
+      "a": "Chiến dịch Giải phóng Sài Gòn",
+      "b": "Chiến dịch Tổng tiến công",
+      "c": "Chiến dịch Hồ Chí Minh",
+      "d": "Chiến dịch Mùa xuân"
+    },
+    "answer": "c",
+    "explanation": "Ngày 14/4/1975, Bộ Chính trị quyết định đặt tên chiến dịch là \"Chiến dịch Hồ Chí Minh\"."
+  },
+  {
+    "id": 348,
+    "question": "Tên gọi \"Chiến dịch Hồ Chí Minh\" được Bộ Chính trị quyết định vào ngày nào?",
+    "options": {
+      "a": "25/3/1975",
+      "b": "1/4/1975",
+      "c": "14/4/1975",
+      "d": "26/4/1975"
+    },
+    "answer": "c",
+    "explanation": "Ngày 14/4/1975, Bộ Chính trị quyết định đặt tên chiến dịch là \"Chiến dịch Hồ Chí Minh\"."
+  }
+]

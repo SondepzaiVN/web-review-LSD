@@ -1,0 +1,194 @@
+[
+  {
+    "id": 349,
+    "question": "Ngày 25/4/1976 diễn ra sự kiện quan trọng nào?",
+    "options": {
+      "a": "Đại hội IV của Đảng",
+      "b": "Tổng tuyển cử bầu Quốc hội chung",
+      "c": "Thống nhất hai miền Nam Bắc",
+      "d": "Đổi tên nước"
+    },
+    "answer": "b",
+    "explanation": "Ngày 25/4/1976, Tổng tuyển cử bầu Quốc hội chung của nước Việt Nam thống nhất được tiến hành."
+  },
+  {
+    "id": 350,
+    "question": "Tổng tuyển cử bầu Quốc hội chung của nước Việt Nam thống nhất được tiến hành vào ngày nào?",
+    "options": {
+      "a": "30/4/1975",
+      "b": "2/7/1976",
+      "c": "25/4/1976",
+      "d": "12/1976"
+    },
+    "answer": "c",
+    "explanation": "Ngày 25/4/1976, Tổng tuyển cử bầu Quốc hội chung của nước Việt Nam thống nhất được tiến hành."
+  },
+  {
+    "id": 351,
+    "question": "Đại hội IV xác định nhiệm vụ nào là then chốt?",
+    "options": {
+      "a": "Cách mạng ruộng đất",
+      "b": "Cách mạng khoa học - kỹ thuật",
+      "c": "Cách mạng tư tưởng - văn hóa",
+      "d": "Cách mạng quan hệ sản xuất"
+    },
+    "answer": "b",
+    "explanation": "Đại hội IV xác định cách mạng khoa học - kỹ thuật là then chốt."
+  },
+  {
+    "id": 352,
+    "question": "\"Cách mạng khoa học - kỹ thuật là then chốt\" được xác định tại Đại hội nào?",
+    "options": {
+      "a": "Đại hội III",
+      "b": "Đại hội IV",
+      "c": "Đại hội V",
+      "d": "Đại hội VI"
+    },
+    "answer": "b",
+    "explanation": "Đại hội IV xác định cách mạng khoa học - kỹ thuật là then chốt."
+  },
+  {
+    "id": 353,
+    "question": "Tổng Bí thư Lê Duẩn giữ chức vụ trong bao lâu?",
+    "options": {
+      "a": "15 năm",
+      "b": "20 năm",
+      "c": "25 năm 303 ngày",
+      "d": "30 năm"
+    },
+    "answer": "c",
+    "explanation": "Tổng Bí thư Lê Duẩn giữ chức vụ trong 25 năm 303 ngày - lâu nhất trong lịch sử Đảng."
+  },
+  {
+    "id": 354,
+    "question": "Ai là Tổng Bí thư giữ chức vụ lâu nhất trong lịch sử Đảng Cộng sản Việt Nam?",
+    "options": {
+      "a": "Trường Chinh",
+      "b": "Lê Duẩn",
+      "c": "Nguyễn Văn Linh",
+      "d": "Nguyễn Phú Trọng"
+    },
+    "answer": "b",
+    "explanation": "Lê Duẩn là Tổng Bí thư giữ chức vụ lâu nhất trong lịch sử Đảng (25 năm 303 ngày)."
+  },
+  {
+    "id": 355,
+    "question": "Đại hội V xác định bao nhiêu nhiệm vụ chiến lược?",
+    "options": {
+      "a": "1 nhiệm vụ",
+      "b": "2 nhiệm vụ",
+      "c": "3 nhiệm vụ",
+      "d": "4 nhiệm vụ"
+    },
+    "answer": "b",
+    "explanation": "Đại hội V xác định 2 nhiệm vụ chiến lược: Xây dựng thành công CNXH và bảo vệ vững chắc Tổ quốc Việt Nam XHCN."
+  },
+  {
+    "id": 356,
+    "question": "Hai nhiệm vụ chiến lược của Đại hội V (1982) là gì?",
+    "options": {
+      "a": "Phát triển kinh tế và đổi mới chính trị",
+      "b": "Xây dựng thành công CNXH và bảo vệ vững chắc Tổ quốc",
+      "c": "Công nghiệp hóa và hiện đại hóa",
+      "d": "Hội nhập và phát triển bền vững"
+    },
+    "answer": "b",
+    "explanation": "Đại hội V xác định 2 nhiệm vụ chiến lược: Xây dựng thành công CNXH và bảo vệ vững chắc Tổ quốc Việt Nam XHCN."
+  },
+  {
+    "id": 357,
+    "question": "Đại hội VI đề ra bao nhiêu chương trình kinh tế lớn?",
+    "options": {
+      "a": "2 chương trình",
+      "b": "3 chương trình",
+      "c": "4 chương trình",
+      "d": "5 chương trình"
+    },
+    "answer": "b",
+    "explanation": "Đại hội VI đề ra 3 chương trình kinh tế lớn: Lương thực - thực phẩm, hàng tiêu dùng, hàng xuất khẩu."
+  },
+  {
+    "id": 358,
+    "question": "Ba chương trình kinh tế lớn được Đại hội VI đề ra là gì?",
+    "options": {
+      "a": "Nông nghiệp, công nghiệp, dịch vụ",
+      "b": "Lương thực - thực phẩm, hàng tiêu dùng, hàng xuất khẩu",
+      "c": "Kinh tế quốc doanh, tập thể, tư nhân",
+      "d": "Nội địa, xuất khẩu, đầu tư nước ngoài"
+    },
+    "answer": "b",
+    "explanation": "Đại hội VI đề ra 3 chương trình kinh tế lớn: Lương thực - thực phẩm, hàng tiêu dùng, hàng xuất khẩu."
+  },
+  {
+    "id": 359,
+    "question": "Hội nghị TW 8 (7/2003) ban hành chiến lược gì?",
+    "options": {
+      "a": "Chiến lược phát triển kinh tế - xã hội",
+      "b": "Chiến lược bảo vệ Tổ quốc trong tình hình mới",
+      "c": "Chiến lược biển Việt Nam",
+      "d": "Chiến lược công nghiệp hóa"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 8 (7/2003) ban hành Chiến lược bảo vệ Tổ quốc trong tình hình mới."
+  },
+  {
+    "id": 360,
+    "question": "Chiến lược bảo vệ Tổ quốc trong tình hình mới được ban hành tại Hội nghị nào?",
+    "options": {
+      "a": "Hội nghị TW 6 (khóa IX)",
+      "b": "Hội nghị TW 8 (7/2003)",
+      "c": "Hội nghị TW 4 (khóa X)",
+      "d": "Đại hội X"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 8 (7/2003) ban hành Chiến lược bảo vệ Tổ quốc trong tình hình mới."
+  },
+  {
+    "id": 361,
+    "question": "Theo Đại hội VIII, có bao nhiêu quan điểm về công nghiệp hóa trong thời kỳ mới?",
+    "options": {
+      "a": "4 quan điểm",
+      "b": "5 quan điểm",
+      "c": "6 quan điểm",
+      "d": "7 quan điểm"
+    },
+    "answer": "c",
+    "explanation": "Đại hội VIII nêu lên 6 quan điểm về công nghiệp hóa trong thời kỳ mới."
+  },
+  {
+    "id": 362,
+    "question": "Đại hội nào nêu lên 6 quan điểm về công nghiệp hóa trong thời kỳ mới?",
+    "options": {
+      "a": "Đại hội VI",
+      "b": "Đại hội VII",
+      "c": "Đại hội VIII",
+      "d": "Đại hội IX"
+    },
+    "answer": "c",
+    "explanation": "Đại hội VIII nêu lên 6 quan điểm về công nghiệp hóa trong thời kỳ mới."
+  },
+  {
+    "id": 363,
+    "question": "\"Lấy việc phát huy nguồn lực con người là yếu tố cơ bản cho sự phát triển nhanh và bền vững\" thuộc quan điểm CNH của Đại hội nào?",
+    "options": {
+      "a": "Đại hội VI",
+      "b": "Đại hội VII",
+      "c": "Đại hội VIII",
+      "d": "Đại hội IX"
+    },
+    "answer": "c",
+    "explanation": "Đây là một trong 6 quan điểm về công nghiệp hóa của Đại hội VIII."
+  },
+  {
+    "id": 364,
+    "question": "Theo Đại hội VIII, yếu tố cơ bản cho sự phát triển nhanh và bền vững là gì?",
+    "options": {
+      "a": "Nguồn vốn đầu tư",
+      "b": "Khoa học công nghệ",
+      "c": "Nguồn lực con người",
+      "d": "Tài nguyên thiên nhiên"
+    },
+    "answer": "c",
+    "explanation": "Đại hội VIII xác định phát huy nguồn lực con người là yếu tố cơ bản cho sự phát triển nhanh và bền vững."
+  }
+]

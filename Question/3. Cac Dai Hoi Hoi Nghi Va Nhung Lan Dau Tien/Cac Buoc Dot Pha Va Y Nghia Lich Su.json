@@ -1,0 +1,158 @@
+[
+  {
+    "id": 381,
+    "question": "Ba bước đột phá trong tư duy đổi mới kinh tế ở khóa V diễn ra tại các kỳ họp nào?",
+    "options": {
+      "a": "HNTW 4, HNTW 5, HNTW 6",
+      "b": "HNTW 6, HNTW 8, HN Bộ Chính trị",
+      "c": "HNTW 5, HNTW 6, HNTW 7",
+      "d": "Đại hội V, HNTW 6, HNTW 8"
+    },
+    "answer": "b",
+    "explanation": "Ba bước đột phá trong tư duy đổi mới kinh tế khóa V: HNTW 6, HNTW 8, và Hội nghị Bộ Chính trị."
+  },
+  {
+    "id": 382,
+    "question": "Hội nghị nào là bước đột phá thứ nhất trong tư duy đổi mới kinh tế khóa V?",
+    "options": {
+      "a": "Hội nghị TW 5",
+      "b": "Hội nghị TW 6",
+      "c": "Hội nghị TW 8",
+      "d": "Hội nghị Bộ Chính trị"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 6 (khóa V) là bước đột phá thứ nhất trong tư duy đổi mới kinh tế."
+  },
+  {
+    "id": 383,
+    "question": "Hội nghị nào là bước đột phá thứ hai trong tư duy đổi mới kinh tế khóa V?",
+    "options": {
+      "a": "Hội nghị TW 6",
+      "b": "Hội nghị TW 7",
+      "c": "Hội nghị TW 8",
+      "d": "Hội nghị Bộ Chính trị"
+    },
+    "answer": "c",
+    "explanation": "Hội nghị TW 8 (khóa V) là bước đột phá thứ hai trong tư duy đổi mới kinh tế."
+  },
+  {
+    "id": 384,
+    "question": "Hội nghị nào là bước đột phá thứ ba trong tư duy đổi mới kinh tế khóa V?",
+    "options": {
+      "a": "Hội nghị TW 6",
+      "b": "Hội nghị TW 8",
+      "c": "Hội nghị TW 9",
+      "d": "Hội nghị Bộ Chính trị"
+    },
+    "answer": "d",
+    "explanation": "Hội nghị Bộ Chính trị (khóa V) là bước đột phá thứ ba trong tư duy đổi mới kinh tế."
+  },
+  {
+    "id": 385,
+    "question": "Hội nghị TW 24 (khóa III) đưa ra chủ trương gì?",
+    "options": {
+      "a": "Giải phóng miền Nam trong 2 năm",
+      "b": "Đưa cả nước tiến nhanh, tiến mạnh, tiến vững chắc lên CNXH",
+      "c": "Đổi mới toàn diện",
+      "d": "Hội nhập kinh tế quốc tế"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 24 (khóa III) đưa ra chủ trương đưa cả nước tiến nhanh, tiến mạnh, tiến vững chắc lên CNXH."
+  },
+  {
+    "id": 386,
+    "question": "Chủ trương \"đưa cả nước tiến nhanh, tiến mạnh, tiến vững chắc lên CNXH\" được đề ra tại Hội nghị nào?",
+    "options": {
+      "a": "Hội nghị TW 21 (khóa III)",
+      "b": "Hội nghị TW 24 (khóa III)",
+      "c": "Đại hội IV",
+      "d": "Đại hội V"
+    },
+    "answer": "b",
+    "explanation": "Chủ trương này được đề ra tại Hội nghị TW 24 (khóa III)."
+  },
+  {
+    "id": 387,
+    "question": "Có bao nhiêu hình thức phân phối chính trong nền kinh tế thị trường định hướng XHCN?",
+    "options": {
+      "a": "2 hình thức",
+      "b": "3 hình thức",
+      "c": "4 hình thức",
+      "d": "5 hình thức"
+    },
+    "answer": "c",
+    "explanation": "Có 4 hình thức phân phối chính: kết quả lao động, hiệu quả kinh tế, mức đóng góp vốn và phúc lợi xã hội."
+  },
+  {
+    "id": 388,
+    "question": "Bốn hình thức phân phối chính trong nền KTTT định hướng XHCN là gì?",
+    "options": {
+      "a": "Theo lao động, theo nhu cầu, theo vốn, theo năng lực",
+      "b": "Kết quả lao động, hiệu quả kinh tế, mức đóng góp vốn, phúc lợi xã hội",
+      "c": "Theo lao động, theo thành tích, theo chức vụ, theo phúc lợi",
+      "d": "Theo năng lực, theo kết quả, theo vốn, theo nhu cầu"
+    },
+    "answer": "b",
+    "explanation": "Bốn hình thức phân phối chính: kết quả lao động, hiệu quả kinh tế, mức đóng góp vốn và phúc lợi xã hội."
+  },
+  {
+    "id": 389,
+    "question": "Trong 4 hình thức phân phối, 2 hình thức nào được coi là chủ yếu?",
+    "options": {
+      "a": "Mức đóng góp vốn và phúc lợi xã hội",
+      "b": "Kết quả lao động và hiệu quả kinh tế",
+      "c": "Hiệu quả kinh tế và mức đóng góp vốn",
+      "d": "Kết quả lao động và phúc lợi xã hội"
+    },
+    "answer": "b",
+    "explanation": "Hai hình thức phân phối chủ yếu là: kết quả lao động và hiệu quả kinh tế."
+  },
+  {
+    "id": 390,
+    "question": "Nguyên nhân cơ bản dẫn đến sự thất bại của các phong trào yêu nước theo khuynh hướng phong kiến và dân chủ tư sản là gì?",
+    "options": {
+      "a": "Thiếu vũ khí và binh lính",
+      "b": "Thiếu đường lối chính trị đúng đắn, thiếu lực lượng toàn dân tộc, thiếu phương pháp đấu tranh thích hợp, thiếu tổ chức lãnh đạo chặt chẽ",
+      "c": "Bị đàn áp dã man",
+      "d": "Không có sự ủng hộ từ bên ngoài"
+    },
+    "answer": "b",
+    "explanation": "Nguyên nhân cơ bản: thiếu đường lối chính trị đúng đắn, thiếu lực lượng hùng mạnh của toàn dân tộc, thiếu phương pháp đấu tranh thích hợp, thiếu tổ chức lãnh đạo chặt chẽ."
+  },
+  {
+    "id": 391,
+    "question": "\"Thiếu đường lối chính trị đúng đắn\" là một trong những nguyên nhân cơ bản dẫn đến thất bại của phong trào nào?",
+    "options": {
+      "a": "Phong trào cách mạng vô sản",
+      "b": "Phong trào yêu nước theo khuynh hướng phong kiến và dân chủ tư sản",
+      "c": "Phong trào kháng chiến chống Pháp",
+      "d": "Phong trào kháng chiến chống Mỹ"
+    },
+    "answer": "b",
+    "explanation": "Đây là một trong những nguyên nhân cơ bản dẫn đến thất bại của các phong trào yêu nước theo khuynh hướng phong kiến và dân chủ tư sản."
+  },
+  {
+    "id": 392,
+    "question": "Ý nghĩa quan trọng của Cương lĩnh chính trị đầu tiên là gì?",
+    "options": {
+      "a": "Đặt nền móng cho đường lối kháng chiến",
+      "b": "Là sự vận dụng sáng tạo CN Mác-Lênin, đặt nền móng khối đại đoàn kết toàn dân, thể hiện đường lối và phương pháp CM khoa học",
+      "c": "Xác định kẻ thù chính của cách mạng",
+      "d": "Thành lập Mặt trận dân tộc thống nhất"
+    },
+    "answer": "b",
+    "explanation": "Cương lĩnh chính trị đầu tiên là sự vận dụng sáng tạo CN Mác-Lênin và tư tưởng cứu nước HCM, đặt nền móng khối đại đoàn kết toàn dân, thể hiện đường lối và phương pháp CM khoa học."
+  },
+  {
+    "id": 393,
+    "question": "Văn kiện nào \"đặt nền móng hình thành khối đại đoàn kết toàn dân\"?",
+    "options": {
+      "a": "Luận cương chính trị tháng 10/1930",
+      "b": "Cương lĩnh chính trị đầu tiên",
+      "c": "Chính cương Đảng Lao động Việt Nam",
+      "d": "Cương lĩnh xây dựng đất nước 1991"
+    },
+    "answer": "b",
+    "explanation": "Cương lĩnh chính trị đầu tiên đặt nền móng hình thành khối đại đoàn kết toàn dân."
+  }
+]

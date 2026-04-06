@@ -1,27 +1,27 @@
 [
   {
     "id": 61,
-    "question": "Nghị quyết 13 (năm 1988) đã đặt nền móng cho đường lối nào trong thời kỳ đổi mới?",
+    "question": "Nghị quyết số 13 (năm 1988) của Bộ Chính trị có ý nghĩa gì?",
     "options": {
-      "a": "Đường lối phát triển kinh tế",
-      "b": "Đường lối đối ngoại đổi mới",
-      "c": "Đường lối giáo dục",
-      "d": "Đường lối quốc phòng"
+      "a": "Đặt nền móng đường lối phát triển kinh tế",
+      "b": "Đặt nền móng hình thành đường lối đối ngoại của Việt Nam",
+      "c": "Đổi mới giáo dục",
+      "d": "Cải cách hành chính"
     },
     "answer": "b",
-    "explanation": "Nghị quyết 13 (năm 1988) đã đặt nền móng cho đường lối đối ngoại đổi mới."
+    "explanation": "Bộ Chính trị ra Nghị quyết số 13 (1988) về nhiệm vụ và chính sách đối ngoại trong tình hình mới: Đặt nền móng hình thành đường lối đối ngoại của Việt Nam."
   },
   {
     "id": 62,
-    "question": "Hội nghị TW 2, khóa VIII xác định lĩnh vực nào là quốc sách hàng đầu?",
+    "question": "Hội nghị TW 2, khóa VIII xác định lĩnh vực nào là quốc sách hàng đầu, là nhân tố quyết định tăng trưởng kinh tế và phát triển xã hội?",
     "options": {
       "a": "Y tế và chăm sóc sức khỏe",
-      "b": "Giáo dục & Khoa học Công nghệ (KHCN)",
+      "b": "Giáo dục - đào tạo cùng với khoa học và công nghệ",
       "c": "An ninh và Quốc phòng",
       "d": "Văn hóa và Du lịch"
     },
     "answer": "b",
-    "explanation": "Hội nghị TW 2, khóa VIII xác định Giáo dục & Khoa học Công nghệ (KHCN) là quốc sách hàng đầu."
+    "explanation": "Hội nghị TW 2, khóa VIII: Nghị quyết coi giáo dục - đào tạo cùng với khoa học và công nghệ là quốc sách hàng đầu, là nhân tố quyết định tăng trưởng kinh tế và phát triển xã hội."
   },
   {
     "id": 63,
@@ -73,7 +73,7 @@
   },
   {
     "id": 67,
-    "question": "Hội nghị TW 5 khóa XII xác định Kinh tế tư nhân (KTTN) là gì của nền kinh tế thị trường định hướng XHCN?",
+    "question": "Hội nghị TW 5 khóa XII xác định phát triển Kinh tế tư nhân (KTTN) trở thành gì của nền kinh tế thị trường định hướng XHCN?",
     "options": {
       "a": "Vai trò chủ đạo",
       "b": "Một động lực quan trọng",
@@ -81,7 +81,7 @@
       "d": "Nền tảng kinh tế"
     },
     "answer": "b",
-    "explanation": "Hội nghị TW 5 khóa XII xác định Kinh tế tư nhân (KTTN) là một động lực quan trọng của nền kinh tế thị trường định hướng XHCN."
+    "explanation": "Hội nghị TW 5, khóa XII: Phát triển KTTN trở thành một động lực quan trọng của nền KTTT định hướng XHCN."
   },
   {
     "id": 68,
@@ -97,15 +97,15 @@
   },
   {
     "id": 69,
-    "question": "Hội nghị TW 6 khóa XIII (11/2022) chủ trương đẩy mạnh CNH-HĐH và đổi mới phương thức gì của Đảng?",
+    "question": "Hội nghị TW 6 khóa XIII (10/2022) chủ trương đẩy mạnh CNH-HĐH và đổi mới phương thức gì của Đảng?",
     "options": {
       "a": "Phương thức tuyên truyền",
       "b": "Phương thức tổ chức cán bộ",
-      "c": "Phương thức lãnh đạo",
+      "c": "Phương thức lãnh đạo, cầm quyền",
       "d": "Phương thức dân vận"
     },
     "answer": "c",
-    "explanation": "Hội nghị TW 6 khóa XIII (11/2022) chủ trương đẩy mạnh CNH-HĐH và đổi mới phương thức lãnh đạo của Đảng."
+    "explanation": "Hội nghị TW 6 khóa XIII (10/2022) chủ trương đẩy mạnh CNH-HĐH và đổi mới phương thức lãnh đạo, cầm quyền của Đảng đối với hệ thống chính trị trong giai đoạn mới."
   },
   {
     "id": 70,

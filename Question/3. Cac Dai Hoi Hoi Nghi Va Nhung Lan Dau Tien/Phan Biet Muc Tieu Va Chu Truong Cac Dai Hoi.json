@@ -1,0 +1,194 @@
+[
+  {
+    "id": 365,
+    "question": "Mục tiêu tổng quát của Đại hội X là gì?",
+    "options": {
+      "a": "Dân giàu, nước mạnh, xã hội công bằng, văn minh",
+      "b": "Dân giàu, nước mạnh, công bằng, dân chủ, văn minh",
+      "c": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+      "d": "Dân giàu, nước mạnh, xã hội dân chủ, công bằng, văn minh"
+    },
+    "answer": "b",
+    "explanation": "Mục tiêu tổng quát Đại hội X: Dân giàu, nước mạnh, công bằng, dân chủ, văn minh."
+  },
+  {
+    "id": 366,
+    "question": "\"Dân giàu, nước mạnh, công bằng, dân chủ, văn minh\" là mục tiêu của Đại hội nào?",
+    "options": {
+      "a": "Đại hội IX",
+      "b": "Đại hội X",
+      "c": "Đại hội XI",
+      "d": "Đại hội XII"
+    },
+    "answer": "b",
+    "explanation": "Mục tiêu \"Dân giàu, nước mạnh, công bằng, dân chủ, văn minh\" thuộc Đại hội X."
+  },
+  {
+    "id": 367,
+    "question": "Mục tiêu tổng quát của Đại hội XI là gì?",
+    "options": {
+      "a": "Dân giàu, nước mạnh, công bằng, dân chủ, văn minh",
+      "b": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+      "c": "Dân giàu, nước mạnh, xã hội công bằng, văn minh",
+      "d": "Dân giàu, nước mạnh, xã hội dân chủ, văn minh"
+    },
+    "answer": "b",
+    "explanation": "Mục tiêu tổng quát Đại hội XI: Dân giàu, nước mạnh, dân chủ, công bằng, văn minh (đảo vị trí \"dân chủ\" và \"công bằng\" so với ĐH X)."
+  },
+  {
+    "id": 368,
+    "question": "\"Dân giàu, nước mạnh, dân chủ, công bằng, văn minh\" là mục tiêu của Đại hội nào?",
+    "options": {
+      "a": "Đại hội IX",
+      "b": "Đại hội X",
+      "c": "Đại hội XI",
+      "d": "Đại hội XII"
+    },
+    "answer": "c",
+    "explanation": "Mục tiêu \"Dân giàu, nước mạnh, dân chủ, công bằng, văn minh\" thuộc Đại hội XI."
+  },
+  {
+    "id": 369,
+    "question": "Sự khác biệt giữa mục tiêu Đại hội X và Đại hội XI là gì?",
+    "options": {
+      "a": "Thêm từ \"văn minh\"",
+      "b": "Thêm từ \"dân chủ\"",
+      "c": "Đảo vị trí \"công bằng\" và \"dân chủ\"",
+      "d": "Bỏ từ \"xã hội\""
+    },
+    "answer": "c",
+    "explanation": "Đại hội XI đảo vị trí \"dân chủ\" lên trước \"công bằng\" so với Đại hội X."
+  },
+  {
+    "id": 370,
+    "question": "Đại hội X chủ trương hội nhập quốc tế như thế nào?",
+    "options": {
+      "a": "Chủ động hội nhập kinh tế quốc tế",
+      "b": "Chủ động, tích cực hội nhập kinh tế quốc tế",
+      "c": "Chủ động và tích cực hội nhập quốc tế",
+      "d": "Tích cực hội nhập toàn diện"
+    },
+    "answer": "b",
+    "explanation": "Đại hội X: Chủ động, tích cực hội nhập kinh tế quốc tế."
+  },
+  {
+    "id": 371,
+    "question": "\"Chủ động, tích cực hội nhập kinh tế quốc tế\" là chủ trương của Đại hội nào?",
+    "options": {
+      "a": "Đại hội IX",
+      "b": "Đại hội X",
+      "c": "Đại hội XI",
+      "d": "Đại hội XII"
+    },
+    "answer": "b",
+    "explanation": "\"Chủ động, tích cực hội nhập kinh tế quốc tế\" là chủ trương của Đại hội X."
+  },
+  {
+    "id": 372,
+    "question": "Đại hội XI chủ trương hội nhập quốc tế như thế nào?",
+    "options": {
+      "a": "Chủ động hội nhập kinh tế quốc tế",
+      "b": "Chủ động, tích cực hội nhập kinh tế quốc tế",
+      "c": "Chủ động và tích cực hội nhập quốc tế",
+      "d": "Hội nhập toàn diện, sâu rộng"
+    },
+    "answer": "c",
+    "explanation": "Đại hội XI: Chủ động và tích cực hội nhập quốc tế (bỏ từ \"kinh tế\", mở rộng hội nhập toàn diện)."
+  },
+  {
+    "id": 373,
+    "question": "\"Chủ động và tích cực hội nhập quốc tế\" là chủ trương của Đại hội nào?",
+    "options": {
+      "a": "Đại hội IX",
+      "b": "Đại hội X",
+      "c": "Đại hội XI",
+      "d": "Đại hội XII"
+    },
+    "answer": "c",
+    "explanation": "\"Chủ động và tích cực hội nhập quốc tế\" là chủ trương của Đại hội XI."
+  },
+  {
+    "id": 374,
+    "question": "Sự khác biệt giữa chủ trương hội nhập của Đại hội X và Đại hội XI là gì?",
+    "options": {
+      "a": "Đại hội XI bỏ từ \"kinh tế\", mở rộng hội nhập toàn diện",
+      "b": "Đại hội XI thêm từ \"tích cực\"",
+      "c": "Đại hội XI thêm từ \"chủ động\"",
+      "d": "Không có sự khác biệt"
+    },
+    "answer": "a",
+    "explanation": "Đại hội XI bỏ từ \"kinh tế\" trong chủ trương hội nhập, mở rộng hội nhập toàn diện (không chỉ kinh tế)."
+  },
+  {
+    "id": 375,
+    "question": "Đặc tính cơ bản của con người Việt Nam mà Đảng chủ trương xây dựng gồm những phẩm chất nào?",
+    "options": {
+      "a": "Yêu nước, nhân ái, đoàn kết, cần cù",
+      "b": "Yêu nước, nhân ái, nghĩa tình, trung thực, đoàn kết, cần cù, sáng tạo",
+      "c": "Yêu nước, trung thực, cần cù, sáng tạo",
+      "d": "Nhân ái, đoàn kết, trung thực, cần cù"
+    },
+    "answer": "b",
+    "explanation": "Đặc tính cơ bản của con người Việt Nam: Yêu nước, nhân ái, nghĩa tình, trung thực, đoàn kết, cần cù, sáng tạo."
+  },
+  {
+    "id": 376,
+    "question": "\"Yêu nước, nhân ái, nghĩa tình, trung thực, đoàn kết, cần cù, sáng tạo\" là gì?",
+    "options": {
+      "a": "Tiêu chí đánh giá cán bộ",
+      "b": "Đặc tính cơ bản của con người Việt Nam mà Đảng chủ trương xây dựng",
+      "c": "Chuẩn mực đạo đức Hồ Chí Minh",
+      "d": "Phẩm chất đảng viên"
+    },
+    "answer": "b",
+    "explanation": "Đây là đặc tính cơ bản của con người Việt Nam mà Đảng Cộng sản Việt Nam chủ trương xây dựng."
+  },
+  {
+    "id": 377,
+    "question": "Hội nghị TW 5, khóa VIII ban hành Nghị quyết về vấn đề gì?",
+    "options": {
+      "a": "Phát triển kinh tế tư nhân",
+      "b": "Xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc",
+      "c": "Đổi mới giáo dục",
+      "d": "Chiến lược biển"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 5, khóa VIII ban hành Nghị quyết về xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc."
+  },
+  {
+    "id": 378,
+    "question": "Nghị quyết về \"xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc\" được ban hành tại Hội nghị nào?",
+    "options": {
+      "a": "Hội nghị TW 2, khóa VIII",
+      "b": "Hội nghị TW 5, khóa VIII",
+      "c": "Hội nghị TW 5, khóa XII",
+      "d": "Đại hội VII"
+    },
+    "answer": "b",
+    "explanation": "Nghị quyết này được ban hành tại Hội nghị TW 5, khóa VIII - được coi là \"Tuyên ngôn văn hóa\" thời kỳ đẩy mạnh CNH-HĐH."
+  },
+  {
+    "id": 379,
+    "question": "Nghị quyết TW 5, khóa VIII về văn hóa được coi là gì của Đảng trong thời kỳ đổi mới?",
+    "options": {
+      "a": "Cương lĩnh văn hóa",
+      "b": "Tuyên ngôn văn hóa",
+      "c": "Chiến lược văn hóa",
+      "d": "Đề cương văn hóa"
+    },
+    "answer": "b",
+    "explanation": "Nghị quyết TW 5, khóa VIII được coi là \"Tuyên ngôn văn hóa\" của Đảng trong thời kỳ đẩy mạnh CNH-HĐH."
+  },
+  {
+    "id": 380,
+    "question": "\"Tuyên ngôn văn hóa\" của Đảng trong thời kỳ đẩy mạnh CNH-HĐH là văn kiện nào?",
+    "options": {
+      "a": "Đề cương văn hóa Việt Nam 1943",
+      "b": "Nghị quyết Đại hội VII về văn hóa",
+      "c": "Nghị quyết TW 5, khóa VIII",
+      "d": "Nghị quyết 80 Bộ Chính trị"
+    },
+    "answer": "c",
+    "explanation": "Nghị quyết TW 5, khóa VIII về văn hóa được coi là \"Tuyên ngôn văn hóa\" của Đảng thời kỳ đẩy mạnh CNH-HĐH."
+  }
+]

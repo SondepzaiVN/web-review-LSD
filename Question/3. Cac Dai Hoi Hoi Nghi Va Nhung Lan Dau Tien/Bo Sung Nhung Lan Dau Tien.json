@@ -1,0 +1,98 @@
+[
+  {
+    "id": 311,
+    "question": "Đại hội XIII lần đầu tiên nêu lên điều gì trong văn kiện Đảng?",
+    "options": {
+      "a": "Mô hình kinh tế tổng quát",
+      "b": "Hệ quan điểm chỉ đạo",
+      "c": "Nhà nước pháp quyền",
+      "d": "Kinh tế thị trường"
+    },
+    "answer": "b",
+    "explanation": "Đại hội XIII lần đầu tiên nêu lên hệ quan điểm chỉ đạo."
+  },
+  {
+    "id": 312,
+    "question": "Kỳ Đại hội nào của Đảng lần đầu tiên nêu lên hệ quan điểm chỉ đạo?",
+    "options": {
+      "a": "Đại hội XI",
+      "b": "Đại hội XII",
+      "c": "Đại hội XIII",
+      "d": "Đại hội XIV"
+    },
+    "answer": "c",
+    "explanation": "Đại hội XIII lần đầu tiên nêu lên hệ quan điểm chỉ đạo."
+  },
+  {
+    "id": 313,
+    "question": "Hội nghị Bộ Chính trị khóa V đã khẳng định mối quan hệ đúng đắn giữa hai yếu tố nào?",
+    "options": {
+      "a": "Kinh tế và chính trị",
+      "b": "Hồng và Chuyên (H-T)",
+      "c": "Dân tộc và dân chủ",
+      "d": "Công nghiệp và nông nghiệp"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị Bộ Chính trị khóa V lần đầu tiên khẳng định mối quan hệ đúng đắn giữa Hồng và Chuyên (H-T)."
+  },
+  {
+    "id": 314,
+    "question": "Văn kiện nào lần đầu tiên khẳng định mối quan hệ đúng đắn giữa Hồng và Chuyên (H-T)?",
+    "options": {
+      "a": "Đại hội IV",
+      "b": "Đại hội V",
+      "c": "Hội nghị Bộ Chính trị khóa V",
+      "d": "Hội nghị TW 6 khóa VI"
+    },
+    "answer": "c",
+    "explanation": "Hội nghị Bộ Chính trị khóa V lần đầu tiên khẳng định mối quan hệ đúng đắn giữa Hồng và Chuyên."
+  },
+  {
+    "id": 315,
+    "question": "Đại hội X lần đầu tiên xác định nhiệm vụ nào là nhiệm vụ quan trọng hàng đầu?",
+    "options": {
+      "a": "Phát triển kinh tế",
+      "b": "Xây dựng, chỉnh đốn Đảng",
+      "c": "Bảo vệ Tổ quốc",
+      "d": "Đối ngoại hội nhập"
+    },
+    "answer": "b",
+    "explanation": "Đại hội X lần đầu tiên xem xây dựng, chỉnh đốn Đảng là nhiệm vụ quan trọng hàng đầu."
+  },
+  {
+    "id": 316,
+    "question": "Kỳ Đại hội nào lần đầu tiên xem \"xây dựng, chỉnh đốn Đảng\" là nhiệm vụ quan trọng hàng đầu?",
+    "options": {
+      "a": "Đại hội VIII",
+      "b": "Đại hội IX",
+      "c": "Đại hội X",
+      "d": "Đại hội XI"
+    },
+    "answer": "c",
+    "explanation": "Đại hội X lần đầu tiên xem xây dựng, chỉnh đốn Đảng là nhiệm vụ quan trọng hàng đầu."
+  },
+  {
+    "id": 317,
+    "question": "Đại hội IX lần đầu tiên chủ trương như thế nào về hội nhập kinh tế quốc tế?",
+    "options": {
+      "a": "Thận trọng hội nhập",
+      "b": "Chủ động hội nhập",
+      "c": "Chủ động và tích cực hội nhập",
+      "d": "Tích cực hội nhập"
+    },
+    "answer": "b",
+    "explanation": "Đại hội IX lần đầu tiên chủ trương chủ động hội nhập kinh tế quốc tế."
+  },
+  {
+    "id": 318,
+    "question": "Chủ trương \"chủ động hội nhập kinh tế quốc tế\" lần đầu tiên được nêu tại Đại hội nào?",
+    "options": {
+      "a": "Đại hội VIII",
+      "b": "Đại hội IX",
+      "c": "Đại hội X",
+      "d": "Đại hội XI"
+    },
+    "answer": "b",
+    "explanation": "Chủ trương chủ động hội nhập kinh tế quốc tế lần đầu tiên được nêu tại Đại hội IX."
+  }
+]
