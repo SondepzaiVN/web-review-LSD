@@ -1,17 +1,5 @@
 [
   {
-    "id": 401,
-    "question": "Hiệp ước Harmand được ký vào ngày tháng năm nào?",
-    "options": {
-      "a": "25/8/1883",
-      "b": "6/6/1884",
-      "c": "5/6/1862",
-      "d": "15/3/1874"
-    },
-    "answer": "a",
-    "explanation": "Hiệp ước Harmand được ký ngày 25/8/1883."
-  },
-  {
     "id": 402,
     "question": "Ngày 25/8/1883 gắn liền với sự kiện lịch sử nào?",
     "options": {
@@ -22,18 +10,6 @@
     },
     "answer": "b",
     "explanation": "Ngày 25/8/1883 là ngày ký Hiệp ước Harmand."
-  },
-  {
-    "id": 403,
-    "question": "Hiệp ước Patenotre được ký vào ngày tháng năm nào?",
-    "options": {
-      "a": "25/8/1883",
-      "b": "6/6/1884",
-      "c": "5/6/1862",
-      "d": "15/3/1874"
-    },
-    "answer": "b",
-    "explanation": "Hiệp ước Patenotre được ký ngày 6/6/1884."
   },
   {
     "id": 404,
@@ -250,18 +226,6 @@
     },
     "answer": "b",
     "explanation": "Hội nghị Bộ Chính trị khóa V là bước quyết định cho sự ra đời của đường lối đổi mới của Đảng và là lần đầu tiên thừa nhận mối quan hệ đúng đắn giữa hàng hóa - tiền tệ."
-  },
-  {
-    "id": 422,
-    "question": "Hội nghị TW 5 khóa VIII ban hành nghị quyết về vấn đề gì?",
-    "options": {
-      "a": "Về công nghiệp hóa, hiện đại hóa",
-      "b": "Về xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc",
-      "c": "Về phát triển kinh tế tư nhân",
-      "d": "Về bảo vệ Tổ quốc"
-    },
-    "answer": "b",
-    "explanation": "Hội nghị TW 5 khóa VIII ban hành Nghị quyết về xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc - được coi là Tuyên ngôn văn hóa thời kỳ đẩy mạnh CNH, HĐH."
   },
   {
     "id": 423,

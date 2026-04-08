@@ -1,0 +1,278 @@
+[
+  {
+    "id": 501,
+    "question": "Hiệp ước Patenotre (6/6/1884) chia Việt Nam thành mấy xứ?",
+    "options": {
+      "a": "2 xứ",
+      "b": "3 xứ",
+      "c": "4 xứ",
+      "d": "5 xứ"
+    },
+    "answer": "b",
+    "explanation": "Hiệp ước Patenotre chia Việt Nam thành 3 xứ: Bắc Kỳ, Trung Kỳ, Nam Kỳ."
+  },
+  {
+    "id": 502,
+    "question": "Ba xứ mà thực dân Pháp chia Việt Nam theo Hiệp ước Patenotre là gì?",
+    "options": {
+      "a": "Bắc Bộ, Trung Bộ, Nam Bộ",
+      "b": "Bắc Kỳ, Trung Kỳ, Nam Kỳ",
+      "c": "Đông Dương, Bắc Kỳ, Nam Kỳ",
+      "d": "Tonkin, Annam, Cochinchine"
+    },
+    "answer": "b",
+    "explanation": "Hiệp ước Patenotre chia Việt Nam thành 3 xứ: Bắc Kỳ, Trung Kỳ (An Nam), Nam Kỳ."
+  },
+  {
+    "id": 503,
+    "question": "Tính chất xã hội Việt Nam dưới sự cai trị của thực dân Pháp là gì?",
+    "options": {
+      "a": "Xã hội tư bản chủ nghĩa",
+      "b": "Xã hội phong kiến",
+      "c": "Xã hội thuộc địa nửa phong kiến",
+      "d": "Xã hội xã hội chủ nghĩa"
+    },
+    "answer": "c",
+    "explanation": "Tính chất xã hội Việt Nam dưới sự cai trị của thực dân Pháp là xã hội thuộc địa nửa phong kiến."
+  },
+  {
+    "id": 504,
+    "question": "Trong khuynh hướng dân chủ tư sản có 2 xu hướng là gì?",
+    "options": {
+      "a": "Cách mạng và cải lương",
+      "b": "Bạo động và cải cách",
+      "c": "Vũ trang và đấu tranh chính trị",
+      "d": "Yêu nước và thân Pháp"
+    },
+    "answer": "b",
+    "explanation": "Trong khuynh hướng dân chủ tư sản có 2 xu hướng: bạo động (đại diện: Phan Bội Châu) và cải cách (đại diện: Phan Châu Trinh)."
+  },
+  {
+    "id": 505,
+    "question": "Tại sao khởi nghĩa Yên Thế được xếp vào khuynh hướng phong kiến?",
+    "options": {
+      "a": "Vì do triều đình phong kiến lãnh đạo",
+      "b": "Vì mục đích thắng lợi là lập lên chế độ phong kiến mới",
+      "c": "Vì sử dụng vũ khí thời phong kiến",
+      "d": "Vì diễn ra ở vùng núi"
+    },
+    "answer": "b",
+    "explanation": "Khởi nghĩa Yên Thế được xếp vào khuynh hướng phong kiến vì mục đích của cuộc khởi nghĩa là đánh Pháp, giải phóng dân tộc, nhưng nếu thắng lợi lại lập nên chế độ phong kiến mới."
+  },
+  {
+    "id": 506,
+    "question": "Tác phẩm \"Đường Cách Mệnh\" của Nguyễn Ái Quốc có nội dung gì?",
+    "options": {
+      "a": "Tố cáo tội ác của thực dân Pháp",
+      "b": "Những nội dung cơ bản về đường lối cách mạng Việt Nam",
+      "c": "Lịch sử phong trào công nhân thế giới",
+      "d": "Phương pháp tổ chức đảng cộng sản"
+    },
+    "answer": "b",
+    "explanation": "Tác phẩm \"Đường Cách Mệnh\" là tác phẩm thể hiện những nội dung cơ bản về đường lối cách mạng Việt Nam."
+  },
+  {
+    "id": 507,
+    "question": "Sự ra đời của 3 tổ chức cộng sản năm 1929 gồm những tổ chức nào?",
+    "options": {
+      "a": "Hội Việt Nam Cách mạng Thanh niên, Tân Việt Cách mạng Đảng, Việt Nam Quốc dân Đảng",
+      "b": "An Nam Cộng sản Đảng, Đông Dương Cộng sản Đảng, Đông Dương Cộng sản Liên đoàn",
+      "c": "Đảng Cộng sản Việt Nam, Đảng Lao động Việt Nam, Đảng Cộng sản Đông Dương",
+      "d": "Việt Minh, Liên Việt, Mặt trận Tổ quốc"
+    },
+    "answer": "b",
+    "explanation": "Ba tổ chức cộng sản ra đời năm 1929: An Nam Cộng sản Đảng, Đông Dương Cộng sản Đảng, Đông Dương Cộng sản Liên đoàn."
+  },
+  {
+    "id": 508,
+    "question": "Sự ra đời của 3 tổ chức cộng sản năm 1929 có ý nghĩa gì?",
+    "options": {
+      "a": "Là bước khẳng định sự phát triển về chất của phong trào yêu nước theo khuynh hướng vô sản",
+      "b": "Đánh dấu sự ra đời của Đảng Cộng sản Việt Nam",
+      "c": "Hoàn thành công cuộc giải phóng dân tộc",
+      "d": "Mở đầu thời kỳ đấu tranh vũ trang"
+    },
+    "answer": "a",
+    "explanation": "Sự ra đời của 3 tổ chức cộng sản là bước khẳng định sự phát triển về chất của phong trào yêu nước theo khuynh hướng vô sản."
+  },
+  {
+    "id": 509,
+    "question": "Đại hội nào của Đảng quyết định lấy ngày 3/2 dương lịch làm ngày thành lập Đảng?",
+    "options": {
+      "a": "Đại hội I",
+      "b": "Đại hội II",
+      "c": "Đại hội III",
+      "d": "Đại hội IV"
+    },
+    "answer": "c",
+    "explanation": "Đại hội III năm 1960 quyết định lấy ngày 3/2 dương lịch làm ngày thành lập Đảng."
+  },
+  {
+    "id": 510,
+    "question": "Nghị quyết nào đã bước đầu khắc phục hạn chế của Luận cương chính trị tháng 10/1930?",
+    "options": {
+      "a": "Nghị quyết Đại hội I",
+      "b": "Nghị quyết chung quanh về vấn đề chính sách mới (10/1936)",
+      "c": "Nghị quyết 15",
+      "d": "Nghị quyết Hội nghị TW 8"
+    },
+    "answer": "b",
+    "explanation": "Nghị quyết chung quanh về vấn đề chính sách mới (10/1936) đã bước đầu khắc phục hạn chế của Luận cương chính trị tháng 10/1930 và trở lại tinh thần Cương lĩnh chính trị đầu tiên."
+  },
+  {
+    "id": 511,
+    "question": "Nội dung nhận thức của Nghị quyết chung quanh về vấn đề chính sách mới (10/1936) là gì?",
+    "options": {
+      "a": "Hai nhiệm vụ dân tộc và dân chủ phải kết chặt làm một",
+      "b": "Hai nhiệm vụ dân tộc và dân chủ không nhất định phải kết chặt, ưu tiên nhiệm vụ dân tộc",
+      "c": "Chỉ tập trung nhiệm vụ dân chủ",
+      "d": "Chỉ tập trung nhiệm vụ dân tộc"
+    },
+    "answer": "b",
+    "explanation": "Nghị quyết chung quanh về vấn đề chính sách mới nhận thức: hai nhiệm vụ dân tộc và dân chủ không nhất định phải kết chặt, ưu tiên nhiệm vụ dân tộc."
+  },
+  {
+    "id": 512,
+    "question": "Đại hội quốc dân Tân Trào quyết định thành lập tổ chức nào?",
+    "options": {
+      "a": "Mặt trận Việt Minh",
+      "b": "Ủy ban dân tộc giải phóng Việt Nam",
+      "c": "Chính phủ lâm thời",
+      "d": "Quốc hội khóa I"
+    },
+    "answer": "b",
+    "explanation": "Đại hội quốc dân Tân Trào quyết định thành lập Ủy ban dân tộc giải phóng Việt Nam do Hồ Chí Minh làm Chủ tịch."
+  },
+  {
+    "id": 513,
+    "question": "Hiệp ước Hoa - Pháp có nội dung gì liên quan đến Việt Nam?",
+    "options": {
+      "a": "Pháp công nhận Việt Nam độc lập",
+      "b": "Pháp và Tưởng ngầm thỏa thuận để Pháp quay lại Đông Dương",
+      "c": "Pháp rút quân khỏi Việt Nam",
+      "d": "Tưởng công nhận Việt Nam Dân chủ Cộng hòa"
+    },
+    "answer": "b",
+    "explanation": "Hiệp ước Hoa - Pháp là thỏa thuận ngầm giữa Pháp và Tưởng để Pháp quay lại Đông Dương, buộc ta phải chuyển từ tạm hòa với Tưởng sang tạm hòa với Pháp."
+  },
+  {
+    "id": 514,
+    "question": "Chỉ thị toàn dân kháng chiến được ban hành vào ngày nào?",
+    "options": {
+      "a": "19/12/1946",
+      "b": "12/12/1946",
+      "c": "25/11/1945",
+      "d": "6/3/1946"
+    },
+    "answer": "b",
+    "explanation": "Chỉ thị toàn dân kháng chiến được ban hành ngày 12/12/1946, là một trong 3 văn kiện thể hiện đường lối kháng chiến chống Pháp."
+  },
+  {
+    "id": 515,
+    "question": "Chiến dịch Biên giới 1950 có ý nghĩa gì?",
+    "options": {
+      "a": "Làm thất bại âm mưu \"đánh nhanh thắng nhanh\" của Pháp",
+      "b": "Giành quyền chủ động tiến công chiến lược trên các chiến trường ở Bắc Bộ",
+      "c": "Buộc Pháp ký Hiệp định Geneva",
+      "d": "Giải phóng hoàn toàn miền Bắc"
+    },
+    "answer": "b",
+    "explanation": "Chiến dịch Biên giới 1950 đã giành quyền chủ động tiến công chiến lược trên các chiến trường ở Bắc Bộ."
+  },
+  {
+    "id": 516,
+    "question": "Phong trào Đồng Khởi (1959-1960) đánh bại chiến lược chiến tranh nào của Mỹ?",
+    "options": {
+      "a": "Chiến tranh đặc biệt",
+      "b": "Chiến tranh cục bộ",
+      "c": "Chiến tranh đơn phương",
+      "d": "Việt Nam hóa chiến tranh"
+    },
+    "answer": "c",
+    "explanation": "Dưới ánh sáng của Nghị quyết 15, toàn miền Nam đã thổi bùng phong trào Đồng Khởi và đánh bại chiến lược chiến tranh đơn phương của Mỹ - Ngụy."
+  },
+  {
+    "id": 517,
+    "question": "Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng (khóa III) chủ trương gì?",
+    "options": {
+      "a": "Tổng khởi nghĩa giành chính quyền",
+      "b": "Đưa cả nước tiến nhanh, tiến mạnh, tiến vững chắc lên CNXH",
+      "c": "Tiến hành cải cách ruộng đất",
+      "d": "Mở cửa hội nhập quốc tế"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị lần thứ 24 chủ trương đưa cả nước tiến nhanh, tiến mạnh, tiến vững chắc lên CNXH."
+  },
+  {
+    "id": 518,
+    "question": "Đại hội IV xác định đặc điểm lớn nhất của cách mạng Việt Nam là gì?",
+    "options": {
+      "a": "Nước ta có nền kinh tế phát triển",
+      "b": "Nước ta đang ở trong quá trình từ một xã hội mà nền kinh tế còn phổ biến là sản xuất nhỏ tiến thẳng lên CNXH, bỏ qua giai đoạn phát triển TBCN",
+      "c": "Nước ta có nguồn nhân lực dồi dào",
+      "d": "Nước ta có vị trí địa lý thuận lợi"
+    },
+    "answer": "b",
+    "explanation": "Đại hội IV xác định đặc điểm lớn nhất: Nước ta đang ở trong quá trình từ một xã hội mà nền kinh tế còn phổ biến là sản xuất nhỏ tiến thẳng lên CNXH, bỏ qua giai đoạn phát triển TBCN."
+  },
+  {
+    "id": 519,
+    "question": "Tại sao đặc điểm \"sản xuất nhỏ tiến thẳng lên CNXH\" là đặc điểm lớn nhất theo Đại hội IV?",
+    "options": {
+      "a": "Vì nó liên quan đến kinh tế",
+      "b": "Vì nó quy định nội dung, hình thức và bước đi của cách mạng XHCN ở nước ta",
+      "c": "Vì nó được nêu đầu tiên trong văn kiện",
+      "d": "Vì nó được quốc tế công nhận"
+    },
+    "answer": "b",
+    "explanation": "Đặc điểm này là lớn nhất vì nó quy định nội dung, hình thức và bước đi của cách mạng XHCN ở nước ta."
+  },
+  {
+    "id": 520,
+    "question": "Hội nghị TW 6 khóa IV lần đầu tiên thừa nhận vấn đề gì?",
+    "options": {
+      "a": "Thừa nhận kinh tế tư nhân",
+      "b": "Thừa nhận thị trường",
+      "c": "Thừa nhận hội nhập quốc tế",
+      "d": "Thừa nhận đa nguyên chính trị"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 6 khóa IV là lần đầu tiên văn kiện của Đảng thừa nhận thị trường."
+  },
+  {
+    "id": 521,
+    "question": "Hội nghị Bộ Chính trị khóa V có ý nghĩa gì?",
+    "options": {
+      "a": "Là bước quyết định cho sự ra đời của đường lối đổi mới và lần đầu tiên thừa nhận mối quan hệ hàng - tiền - hàng",
+      "b": "Là hội nghị thành lập Đảng",
+      "c": "Là hội nghị quyết định tổng khởi nghĩa",
+      "d": "Là hội nghị thống nhất đất nước"
+    },
+    "answer": "a",
+    "explanation": "Hội nghị Bộ Chính trị khóa V là bước quyết định cho sự ra đời của đường lối đổi mới của Đảng và là lần đầu tiên thừa nhận mối quan hệ đúng đắn giữa hàng hóa - tiền tệ (công thức hàng - tiền - hàng)."
+  },
+  {
+    "id": 522,
+    "question": "Đại hội VI đề ra bao nhiêu chương trình kinh tế lớn?",
+    "options": {
+      "a": "2 chương trình",
+      "b": "3 chương trình",
+      "c": "4 chương trình",
+      "d": "5 chương trình"
+    },
+    "answer": "b",
+    "explanation": "Đại hội VI đề ra 3 chương trình kinh tế lớn: lương thực thực phẩm, hàng tiêu dùng và hàng xuất khẩu."
+  },
+  {
+    "id": 523,
+    "question": "Ba chương trình kinh tế lớn của Đại hội VI là gì?",
+    "options": {
+      "a": "Công nghiệp nặng, công nghiệp nhẹ, nông nghiệp",
+      "b": "Lương thực thực phẩm, hàng tiêu dùng, hàng xuất khẩu",
+      "c": "Giao thông, năng lượng, viễn thông",
+      "d": "Giáo dục, y tế, văn hóa"
+    },
+    "answer": "b",
+    "explanation": "Ba chương trình kinh tế lớn của Đại hội VI: lương thực thực phẩm, hàng tiêu dùng và hàng xuất khẩu."
+  }
+]

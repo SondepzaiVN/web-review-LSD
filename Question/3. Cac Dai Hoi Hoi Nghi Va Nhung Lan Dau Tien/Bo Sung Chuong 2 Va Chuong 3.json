@@ -87,25 +87,25 @@
     "id": 458,
     "question": "Mục tiêu tổng quát của Cương lĩnh 1991 khi kết thúc thời kỳ quá độ là gì?",
     "options": {
-      "a": "Xây dựng nền tảng kinh tế của CNXH... nước XHCN ngày càng phồn vinh, hạnh phúc",
-      "b": "Xây dựng cơ sở kinh tế của CNXH... nước XHCN phồn vinh",
+      "a": "Xây dựng được về cơ bản nền tảng kinh tế của CNXH với kiến trúc thượng tầng về chính trị, tư tưởng, văn hoá phù hợp, tạo cơ sở để nước ta trở thành một nước XHCN ngày càng phồn vinh, hạnh phúc",
+      "b": "Xây dựng xong về cơ bản những cơ sở kinh tế của CNXH, với kiến trúc thượng tầng về chính trị và tư tưởng, văn hoá phù hợp, làm cho nước ta trở thành một nước XHCN phồn vinh",
       "c": "Trở thành nước công nghiệp hiện đại",
       "d": "Trở thành nước phát triển"
     },
     "answer": "b",
-    "explanation": "Cương lĩnh 1991: \"Xây dựng xong về cơ bản những cơ sở kinh tế của CNXH... làm cho nước ta trở thành một nước XHCN phồn vinh\"."
+    "explanation": "Cương lĩnh 1991: \"Khi kết thúc thời kỳ quá độ là xây dựng xong về cơ bản những cơ sở kinh tế của CNXH, với kiến trúc thượng tầng về chính trị và tư tưởng, văn hoá phù hợp, làm cho nước ta trở thành một nước XHCN phồn vinh\"."
   },
   {
     "id": 459,
     "question": "Mục tiêu tổng quát của Cương lĩnh 2011 khi kết thúc thời kỳ quá độ là gì?",
     "options": {
-      "a": "Xây dựng cơ sở kinh tế của CNXH... nước XHCN phồn vinh",
-      "b": "Xây dựng nền tảng kinh tế của CNXH... nước XHCN ngày càng phồn vinh, hạnh phúc",
+      "a": "Xây dựng xong về cơ bản những cơ sở kinh tế của CNXH, với kiến trúc thượng tầng về chính trị và tư tưởng, văn hoá phù hợp, làm cho nước ta trở thành một nước XHCN phồn vinh",
+      "b": "Xây dựng được về cơ bản nền tảng kinh tế của CNXH với kiến trúc thượng tầng về chính trị, tư tưởng, văn hoá phù hợp, tạo cơ sở để nước ta trở thành một nước XHCN ngày càng phồn vinh, hạnh phúc",
       "c": "Trở thành nước công nghiệp hiện đại",
       "d": "Trở thành nước thu nhập cao"
     },
     "answer": "b",
-    "explanation": "Cương lĩnh 2011: \"Xây dựng được về cơ bản nền tảng kinh tế của CNXH... tạo cơ sở để nước ta trở thành một nước XHCN ngày càng phồn vinh, hạnh phúc\"."
+    "explanation": "Cương lĩnh 2011: \"Khi kết thúc thời kỳ quá độ ở nước ta là xây dựng được về cơ bản nền tảng kinh tế của CNXH với kiến trúc thượng tầng về chính trị, tư tưởng, văn hoá phù hợp, tạo cơ sở để nước ta trở thành một nước XHCN ngày càng phồn vinh, hạnh phúc\"."
   },
   {
     "id": 460,
@@ -226,17 +226,5 @@
     },
     "answer": "b",
     "explanation": "Tổng tuyển cử đầu tiên của nước Việt Nam độc lập được tổ chức ngày 6/1/1946."
-  },
-  {
-    "id": 470,
-    "question": "Tổng tuyển cử bầu Quốc hội chung của nước Việt Nam thống nhất được tiến hành ngày nào?",
-    "options": {
-      "a": "6/1/1946",
-      "b": "30/4/1975",
-      "c": "25/4/1976",
-      "d": "2/7/1976"
-    },
-    "answer": "c",
-    "explanation": "Tổng tuyển cử bầu Quốc hội chung của nước Việt Nam thống nhất được tiến hành ngày 25/4/1976."
   }
 ]
