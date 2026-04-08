@@ -1,0 +1,506 @@
+[
+  {
+    "id": 401,
+    "question": "Hiệp ước Harmand được ký vào ngày tháng năm nào?",
+    "options": {
+      "a": "25/8/1883",
+      "b": "6/6/1884",
+      "c": "5/6/1862",
+      "d": "15/3/1874"
+    },
+    "answer": "a",
+    "explanation": "Hiệp ước Harmand được ký ngày 25/8/1883."
+  },
+  {
+    "id": 402,
+    "question": "Ngày 25/8/1883 gắn liền với sự kiện lịch sử nào?",
+    "options": {
+      "a": "Ký Hiệp ước Patenotre",
+      "b": "Ký Hiệp ước Harmand",
+      "c": "Ký Hiệp định Sơ bộ",
+      "d": "Ký Hiệp định Geneva"
+    },
+    "answer": "b",
+    "explanation": "Ngày 25/8/1883 là ngày ký Hiệp ước Harmand."
+  },
+  {
+    "id": 403,
+    "question": "Hiệp ước Patenotre được ký vào ngày tháng năm nào?",
+    "options": {
+      "a": "25/8/1883",
+      "b": "6/6/1884",
+      "c": "5/6/1862",
+      "d": "15/3/1874"
+    },
+    "answer": "b",
+    "explanation": "Hiệp ước Patenotre được ký ngày 6/6/1884."
+  },
+  {
+    "id": 404,
+    "question": "Ngày 6/6/1884 gắn liền với sự kiện lịch sử nào?",
+    "options": {
+      "a": "Ký Hiệp ước Harmand",
+      "b": "Ký Hiệp ước Patenotre",
+      "c": "Thành lập Đông Dương thuộc Pháp",
+      "d": "Pháp chiếm Nam Kỳ"
+    },
+    "answer": "b",
+    "explanation": "Ngày 6/6/1884 là ngày ký Hiệp ước Patenotre."
+  },
+  {
+    "id": 405,
+    "question": "Hiệp ước Patenotre chia Việt Nam thành mấy xứ?",
+    "options": {
+      "a": "2 xứ",
+      "b": "3 xứ",
+      "c": "4 xứ",
+      "d": "5 xứ"
+    },
+    "answer": "b",
+    "explanation": "Hiệp ước Patenotre chia Việt Nam thành 3 xứ: Bắc Kỳ, Trung Kỳ, Nam Kỳ."
+  },
+  {
+    "id": 406,
+    "question": "Tính chất xã hội Việt Nam dưới sự cai trị của thực dân Pháp là gì?",
+    "options": {
+      "a": "Xã hội phong kiến",
+      "b": "Xã hội tư bản chủ nghĩa",
+      "c": "Xã hội thuộc địa nửa phong kiến",
+      "d": "Xã hội nô lệ"
+    },
+    "answer": "c",
+    "explanation": "Tính chất xã hội Việt Nam dưới sự cai trị của thực dân Pháp là xã hội thuộc địa nửa phong kiến."
+  },
+  {
+    "id": 407,
+    "question": "Xã hội Việt Nam cuối thế kỷ XIX đầu thế kỷ XX có 2 mâu thuẫn cơ bản là gì?",
+    "options": {
+      "a": "Giai cấp vô sản với tư sản; nông dân với địa chủ",
+      "b": "Dân tộc Việt Nam với đế quốc xâm lược; nông dân Việt Nam với địa chủ phong kiến",
+      "c": "Công nhân với tư sản; địa chủ với phong kiến",
+      "d": "Nhân dân với chính quyền; nông dân với công nhân"
+    },
+    "answer": "b",
+    "explanation": "Xã hội Việt Nam có 2 mâu thuẫn cơ bản: Dân tộc Việt Nam với đế quốc xâm lược, nông dân Việt Nam với địa chủ phong kiến."
+  },
+  {
+    "id": 408,
+    "question": "Trong 2 mâu thuẫn cơ bản của xã hội Việt Nam, mâu thuẫn nào là chủ yếu nhất?",
+    "options": {
+      "a": "Nông dân Việt Nam với địa chủ phong kiến",
+      "b": "Dân tộc Việt Nam với đế quốc xâm lược",
+      "c": "Công nhân với tư sản",
+      "d": "Cả A và B đều chủ yếu"
+    },
+    "answer": "b",
+    "explanation": "Mâu thuẫn giữa dân tộc Việt Nam với đế quốc xâm lược là mâu thuẫn chủ yếu nhất vì liên quan đến việc giành lại chủ quyền dân tộc."
+  },
+  {
+    "id": 409,
+    "question": "Giai cấp công nhân có thể đóng vai trò lãnh đạo cách mạng với điều kiện gì?",
+    "options": {
+      "a": "Có số lượng đông đảo",
+      "b": "Được tổ chức lại, được vũ trang bằng lý luận Mác-Lênin, có đội tiên phong là Đảng Cộng sản",
+      "c": "Có sức khỏe và lòng yêu nước",
+      "d": "Được sự ủng hộ của quốc tế"
+    },
+    "answer": "b",
+    "explanation": "Giai cấp công nhân có thể đóng vai trò lãnh đạo cách mạng khi: được tổ chức lại, được vũ trang bằng lý luận Mác-Lênin, có đội tiên phong dẫn đường là Đảng Cộng sản."
+  },
+  {
+    "id": 410,
+    "question": "Trong khuynh hướng dân chủ tư sản có 2 xu hướng chính là gì?",
+    "options": {
+      "a": "Cải cách và cách mạng",
+      "b": "Bạo động và cải cách",
+      "c": "Hòa bình và chiến tranh",
+      "d": "Dân tộc và giai cấp"
+    },
+    "answer": "b",
+    "explanation": "Trong khuynh hướng dân chủ tư sản có 2 xu hướng: Bạo động (Phan Bội Châu) và Cải cách (Phan Châu Trinh)."
+  },
+  {
+    "id": 411,
+    "question": "Sự kiện nào đánh dấu bước chuyển hẳn sang lập trường dân chủ tư sản của nhà yêu nước Phan Bội Châu?",
+    "options": {
+      "a": "Phong trào Đông Du",
+      "b": "Thành lập Duy Tân hội",
+      "c": "Thành lập Việt Nam Quang phục hội năm 1912",
+      "d": "Phong trào Đông Kinh Nghĩa Thục"
+    },
+    "answer": "c",
+    "explanation": "Thành lập Việt Nam Quang phục hội năm 1912 đánh dấu bước chuyển hẳn sang lập trường dân chủ tư sản của Phan Bội Châu."
+  },
+  {
+    "id": 412,
+    "question": "Quan điểm cứu nước của nhà yêu nước Phan Châu Trinh là gì?",
+    "options": {
+      "a": "Bạo động",
+      "b": "Bất bạo động",
+      "c": "Cầu viện nước ngoài",
+      "d": "Tổng khởi nghĩa"
+    },
+    "answer": "b",
+    "explanation": "Quan điểm của nhà yêu nước Phan Châu Trinh là bất bạo động."
+  },
+  {
+    "id": 413,
+    "question": "Tác phẩm \"Bản án chế độ thực dân Pháp\" ra đời vào năm nào?",
+    "options": {
+      "a": "1920",
+      "b": "1925",
+      "c": "1927",
+      "d": "1930"
+    },
+    "answer": "b",
+    "explanation": "Tác phẩm \"Bản án chế độ thực dân Pháp\" ra đời năm 1925, tố cáo tội ác của chủ nghĩa thực dân với các nước thuộc địa."
+  },
+  {
+    "id": 414,
+    "question": "Hội Việt Nam Cách mạng Thanh niên ra đời vào thời gian nào?",
+    "options": {
+      "a": "Tháng 3/1925",
+      "b": "Tháng 6/1925",
+      "c": "Tháng 9/1925",
+      "d": "Tháng 12/1925"
+    },
+    "answer": "b",
+    "explanation": "Hội Việt Nam Cách mạng Thanh niên ra đời tháng 6/1925, lấy Báo Thanh niên làm cơ quan ngôn luận."
+  },
+  {
+    "id": 415,
+    "question": "Tại sao từ 1928-1929 phong trào công nhân chuyển từ tự phát sang tự giác (vô sản hóa)?",
+    "options": {
+      "a": "Do ảnh hưởng của Cách mạng Tháng Mười Nga",
+      "b": "Do Hội Việt Nam Cách mạng Thanh niên đưa chủ nghĩa Mác-Lênin thâm nhập có hệ thống vào phong trào công nhân",
+      "c": "Do sự giúp đỡ của Quốc tế Cộng sản",
+      "d": "Do tình hình kinh tế khủng hoảng"
+    },
+    "answer": "b",
+    "explanation": "Từ 1928-1929, Hội Việt Nam Cách mạng Thanh niên đưa chủ nghĩa Mác-Lênin thâm nhập có hệ thống vào phong trào công nhân, đưa phong trào chuyển từ tự phát sang tự giác."
+  },
+  {
+    "id": 416,
+    "question": "Hội nghị đại biểu toàn quốc của Đảng họp tại Tân Trào (Tuyên Quang) bắt đầu vào ngày nào?",
+    "options": {
+      "a": "9/8/1945",
+      "b": "13/8/1945",
+      "c": "16/8/1945",
+      "d": "19/8/1945"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị đại biểu toàn quốc của Đảng họp tại Tân Trào (Tuyên Quang) từ ngày 13-15/8/1945."
+  },
+  {
+    "id": 417,
+    "question": "Đại hội quốc dân Tân Trào quyết định thành lập cơ quan nào do Hồ Chí Minh làm chủ tịch?",
+    "options": {
+      "a": "Chính phủ lâm thời",
+      "b": "Ủy ban dân tộc giải phóng Việt Nam",
+      "c": "Mặt trận Việt Minh",
+      "d": "Quân đội nhân dân Việt Nam"
+    },
+    "answer": "b",
+    "explanation": "Đại hội quốc dân Tân Trào quyết định thành lập Ủy ban dân tộc giải phóng Việt Nam do Hồ Chí Minh làm chủ tịch."
+  },
+  {
+    "id": 418,
+    "question": "Tại sao phải Tổng khởi nghĩa \"trước khi\" quân Đồng minh đổ bộ vào Đông Dương?",
+    "options": {
+      "a": "Để có thời gian chuẩn bị lực lượng",
+      "b": "Để giành chính quyền, tuyên bố chủ quyền, đón quân Đồng minh với tư cách nước chủ nhà",
+      "c": "Để tranh thủ sự ủng hộ của Liên Xô",
+      "d": "Để đánh bại phát xít Nhật"
+    },
+    "answer": "b",
+    "explanation": "Phải Tổng khởi nghĩa trước khi quân Đồng minh vào để giành chính quyền, tuyên bố chủ quyền. Với tư cách nước chủ nhà, ta sẽ đón quân Đồng minh vào thực hiện nghĩa vụ quốc tế và rút về."
+  },
+  {
+    "id": 419,
+    "question": "Tên gọi Đảng Cộng sản Việt Nam có bao nhiêu ý nghĩa cơ bản?",
+    "options": {
+      "a": "2 ý nghĩa",
+      "b": "3 ý nghĩa",
+      "c": "4 ý nghĩa",
+      "d": "5 ý nghĩa"
+    },
+    "answer": "b",
+    "explanation": "Tên gọi Đảng Cộng sản Việt Nam có 3 ý nghĩa: Phù hợp với Chủ nghĩa Mác-Lenin về vấn đề dân tộc; Phù hợp với thực tiễn nước ta; Khẳng định giá trị độc lập dân tộc và chủ quyền quốc gia."
+  },
+  {
+    "id": 420,
+    "question": "Phong trào nào của ta đã đánh bại chiến lược chiến tranh đơn phương của Mỹ-Ngụy?",
+    "options": {
+      "a": "Chiến thắng Ấp Bắc",
+      "b": "Phong trào Đồng Khởi",
+      "c": "Tổng tiến công Mậu Thân",
+      "d": "Chiến thắng Điện Biên Phủ"
+    },
+    "answer": "b",
+    "explanation": "Dưới ánh sáng của Nghị quyết 15, toàn miền Nam đã thổi bùng phong trào Đồng Khởi và đánh bại chiến lược chiến tranh đơn phương của Mỹ-Ngụy."
+  },
+  {
+    "id": 421,
+    "question": "Hội nghị Bộ Chính trị khóa V là bước quyết định cho sự ra đời của đường lối nào?",
+    "options": {
+      "a": "Đường lối kháng chiến",
+      "b": "Đường lối đổi mới",
+      "c": "Đường lối đối ngoại",
+      "d": "Đường lối công nghiệp hóa"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị Bộ Chính trị khóa V là bước quyết định cho sự ra đời của đường lối đổi mới của Đảng và là lần đầu tiên thừa nhận mối quan hệ đúng đắn giữa hàng hóa - tiền tệ."
+  },
+  {
+    "id": 422,
+    "question": "Hội nghị TW 5 khóa VIII ban hành nghị quyết về vấn đề gì?",
+    "options": {
+      "a": "Về công nghiệp hóa, hiện đại hóa",
+      "b": "Về xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc",
+      "c": "Về phát triển kinh tế tư nhân",
+      "d": "Về bảo vệ Tổ quốc"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 5 khóa VIII ban hành Nghị quyết về xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc - được coi là Tuyên ngôn văn hóa thời kỳ đẩy mạnh CNH, HĐH."
+  },
+  {
+    "id": 423,
+    "question": "Văn kiện nào được coi là \"Tuyên ngôn văn hóa trước Cách mạng Tháng Tám\"?",
+    "options": {
+      "a": "Nghị quyết TW 5 khóa VIII",
+      "b": "Đề cương văn hóa Việt Nam",
+      "c": "Cương lĩnh chính trị đầu tiên",
+      "d": "Luận cương chính trị 10/1930"
+    },
+    "answer": "b",
+    "explanation": "Đề cương văn hóa Việt Nam được coi là Tuyên ngôn văn hóa trước Cách mạng Tháng Tám."
+  },
+  {
+    "id": 424,
+    "question": "Văn kiện nào được coi là \"Tuyên ngôn văn hóa thời kỳ đẩy mạnh CNH, HĐH\"?",
+    "options": {
+      "a": "Đề cương văn hóa Việt Nam",
+      "b": "Nghị quyết TW 5 khóa VIII",
+      "c": "Cương lĩnh 1991",
+      "d": "Cương lĩnh 2011"
+    },
+    "answer": "b",
+    "explanation": "Nghị quyết TW 5 khóa VIII về xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc được coi là Tuyên ngôn văn hóa thời kỳ đẩy mạnh CNH, HĐH."
+  },
+  {
+    "id": 425,
+    "question": "Hội nghị TW 4 khóa XIII ban hành nghị quyết về vấn đề gì?",
+    "options": {
+      "a": "Về CNH, HĐH",
+      "b": "Về đẩy mạnh xây dựng, chỉnh đốn Đảng và hệ thống chính trị",
+      "c": "Về chính sách xã hội",
+      "d": "Về đội ngũ trí thức"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 4 khóa XIII ban hành nghị quyết về đẩy mạnh xây dựng, chỉnh đốn Đảng và hệ thống chính trị."
+  },
+  {
+    "id": 426,
+    "question": "Hội nghị TW 6 khóa XIII ban hành văn kiện về những vấn đề nào?",
+    "options": {
+      "a": "Nhà nước pháp quyền, CNH-HĐH, Đổi mới phương thức lãnh đạo của Đảng",
+      "b": "Chính sách xã hội, Đội ngũ trí thức, Đại đoàn kết dân tộc",
+      "c": "Kinh tế tư nhân, Bảo vệ Tổ quốc",
+      "d": "Văn hóa, Giáo dục"
+    },
+    "answer": "a",
+    "explanation": "Hội nghị TW 6 khóa XIII ban hành văn kiện về: Nhà nước pháp quyền; CNH, HĐH; Đổi mới phương thức lãnh đạo, cầm quyền của Đảng."
+  },
+  {
+    "id": 427,
+    "question": "Hội nghị TW 8 khóa XIII ban hành văn kiện về những vấn đề nào?",
+    "options": {
+      "a": "Nhà nước pháp quyền, CNH-HĐH",
+      "b": "Chính sách xã hội, Đội ngũ trí thức, Sức mạnh đại đoàn kết dân tộc",
+      "c": "Kinh tế tư nhân, Chiến lược biển",
+      "d": "Xây dựng Đảng về đạo đức"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 8 khóa XIII ban hành văn kiện về: Chính sách xã hội; Đội ngũ trí thức; Sức mạnh đại đoàn kết dân tộc."
+  },
+  {
+    "id": 428,
+    "question": "Mục tiêu cụ thể của Đại hội XIII đến năm 2025 là gì?",
+    "options": {
+      "a": "Thu nhập trung bình cao",
+      "b": "Vượt qua mức thu nhập trung bình thấp",
+      "c": "Thu nhập cao",
+      "d": "Nước phát triển"
+    },
+    "answer": "b",
+    "explanation": "Mục tiêu cụ thể của Đại hội XIII: Năm 2025 vượt qua mức thu nhập trung bình thấp."
+  },
+  {
+    "id": 429,
+    "question": "Mục tiêu cụ thể của Đại hội XIII đến năm 2030 là gì?",
+    "options": {
+      "a": "Vượt qua mức thu nhập trung bình thấp",
+      "b": "Thu nhập trung bình cao",
+      "c": "Thu nhập cao",
+      "d": "Nước phát triển"
+    },
+    "answer": "b",
+    "explanation": "Mục tiêu cụ thể của Đại hội XIII: Năm 2030 trở thành nước có thu nhập trung bình cao."
+  },
+  {
+    "id": 430,
+    "question": "Mục tiêu cụ thể của Đại hội XIII đến năm 2045 là gì?",
+    "options": {
+      "a": "Thu nhập trung bình cao",
+      "b": "Thu nhập cao",
+      "c": "Nước công nghiệp hiện đại",
+      "d": "Nước siêu cường"
+    },
+    "answer": "b",
+    "explanation": "Mục tiêu cụ thể của Đại hội XIII: Năm 2045 trở thành nước có thu nhập cao."
+  },
+  {
+    "id": 431,
+    "question": "Đại hội XIII lần đầu tiên đưa ra hệ quan điểm chỉ đạo về đối ngoại như thế nào?",
+    "options": {
+      "a": "Vì lợi ích quốc gia, dân tộc",
+      "b": "Bảo đảm lợi ích tối cao của quốc gia - dân tộc",
+      "c": "Bảo đảm cao nhất lợi ích quốc gia - dân tộc trên cơ sở các nguyên tắc cơ bản của Hiến chương Liên Hợp Quốc và luật pháp quốc tế",
+      "d": "Đa dạng hóa, đa phương hóa quan hệ"
+    },
+    "answer": "c",
+    "explanation": "Đại hội XIII lần đầu tiên nêu lên hệ quan điểm chỉ đạo: Bảo đảm cao nhất lợi ích quốc gia - dân tộc trên cơ sở các nguyên tắc cơ bản của Hiến chương Liên Hợp Quốc và luật pháp quốc tế, bình đẳng, hợp tác, cùng có lợi."
+  },
+  {
+    "id": 432,
+    "question": "3 thành phần nồng cốt để phát triển nền kinh tế độc lập, tự chủ là gì?",
+    "options": {
+      "a": "Kinh tế nhà nước, kinh tế tập thể, kinh tế có vốn đầu tư nước ngoài",
+      "b": "Kinh tế nhà nước, kinh tế tập thể, kinh tế tư nhân",
+      "c": "Kinh tế tư nhân, kinh tế cá thể, kinh tế hộ gia đình",
+      "d": "Kinh tế quốc doanh, kinh tế hợp tác xã, kinh tế hỗn hợp"
+    },
+    "answer": "b",
+    "explanation": "Kinh tế nhà nước, kinh tế tập thể cùng với kinh tế tư nhân là nồng cốt để phát triển nền kinh tế độc lập, tự chủ."
+  },
+  {
+    "id": 433,
+    "question": "Tính đến năm 2025, Việt Nam đã thiết lập quan hệ đối tác chiến lược toàn diện với bao nhiêu quốc gia?",
+    "options": {
+      "a": "10 quốc gia",
+      "b": "13 quốc gia",
+      "c": "15 quốc gia",
+      "d": "17 quốc gia"
+    },
+    "answer": "b",
+    "explanation": "Tính đến năm 2025, Việt Nam đã thiết lập quan hệ đối tác chiến lược toàn diện với 13 quốc gia: Trung Quốc, Nga, Ấn Độ, Hàn Quốc, Mỹ, Nhật Bản, Australia, Pháp, Malaysia, New Zealand, Indonesia, Singapore, Thái Lan."
+  },
+  {
+    "id": 434,
+    "question": "Hội nghị Xứ ủy Nam Bộ tháng 12/1956 chủ trương đưa cách mạng miền Nam đi lên bằng con đường nào?",
+    "options": {
+      "a": "Đấu tranh chính trị hòa bình",
+      "b": "Đấu tranh ngoại giao",
+      "c": "Bạo lực cách mạng",
+      "d": "Kết hợp ba mũi giáp công"
+    },
+    "answer": "c",
+    "explanation": "Hội nghị Xứ ủy Nam Bộ tháng 12/1956 thảo luận đường lối Cách mạng Miền Nam của Lê Duẩn và chủ trương đưa cách mạng miền Nam đi lên bằng con đường bạo lực cách mạng."
+  },
+  {
+    "id": 435,
+    "question": "Nghị quyết Bộ Chính trị tháng 9/1954 quyết định chuyển từ hình thức đấu tranh nào?",
+    "options": {
+      "a": "Từ đấu tranh chính trị sang đấu tranh vũ trang",
+      "b": "Từ đấu tranh vũ trang sang đấu tranh chính trị",
+      "c": "Từ đấu tranh kinh tế sang đấu tranh quân sự",
+      "d": "Từ đấu tranh ngoại giao sang đấu tranh chính trị"
+    },
+    "answer": "b",
+    "explanation": "Nghị quyết Bộ Chính trị tháng 9/1954 quyết định chuyển từ đấu tranh vũ trang sang đấu tranh chính trị (để thi hành Hiệp định Geneva)."
+  },
+  {
+    "id": 436,
+    "question": "Hội nghị Bộ Chính trị tháng 12/1967 đề ra phương pháp gì để giành thắng lợi?",
+    "options": {
+      "a": "Kháng chiến trường kỳ",
+      "b": "Tổng công kích, tổng khởi nghĩa",
+      "c": "Đánh nhanh thắng nhanh",
+      "d": "Chiến tranh nhân dân"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị Bộ Chính trị tháng 12/1967 đề ra phương pháp: tiến lên giành thắng lợi quyết định bằng tổng công kích, tổng khởi nghĩa."
+  },
+  {
+    "id": 437,
+    "question": "Hội nghị TW 2 khóa VIII xác định lĩnh vực nào là quốc sách hàng đầu?",
+    "options": {
+      "a": "Y tế và chăm sóc sức khỏe",
+      "b": "Giáo dục - đào tạo cùng với khoa học và công nghệ",
+      "c": "An ninh và quốc phòng",
+      "d": "Văn hóa và du lịch"
+    },
+    "answer": "b",
+    "explanation": "Hội nghị TW 2 khóa VIII: Nghị quyết coi giáo dục - đào tạo cùng với khoa học và công nghệ là quốc sách hàng đầu, là nhân tố quyết định tăng trưởng kinh tế và phát triển xã hội."
+  },
+  {
+    "id": 438,
+    "question": "Mục tiêu của Đại hội VIII là gì?",
+    "options": {
+      "a": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+      "b": "Dân giàu, nước mạnh, công bằng, dân chủ, văn minh",
+      "c": "Dân giàu, nước mạnh, xã hội công bằng, văn minh",
+      "d": "Độc lập, tự do, hạnh phúc"
+    },
+    "answer": "c",
+    "explanation": "Mục tiêu của Đại hội VIII (1996): Dân giàu, nước mạnh, xã hội công bằng, văn minh (không có \"dân chủ\")."
+  },
+  {
+    "id": 439,
+    "question": "Mục tiêu của Đại hội X là gì?",
+    "options": {
+      "a": "Dân giàu, nước mạnh, xã hội công bằng, văn minh",
+      "b": "Dân giàu, nước mạnh, công bằng, dân chủ, văn minh",
+      "c": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+      "d": "Độc lập, tự do, hạnh phúc"
+    },
+    "answer": "b",
+    "explanation": "Mục tiêu của Đại hội X: Dân giàu, nước mạnh, công bằng, dân chủ, văn minh (\"công bằng\" đứng trước \"dân chủ\")."
+  },
+  {
+    "id": 440,
+    "question": "Mục tiêu của Đại hội XI là gì?",
+    "options": {
+      "a": "Dân giàu, nước mạnh, xã hội công bằng, văn minh",
+      "b": "Dân giàu, nước mạnh, công bằng, dân chủ, văn minh",
+      "c": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+      "d": "Độc lập, tự do, hạnh phúc"
+    },
+    "answer": "c",
+    "explanation": "Mục tiêu của Đại hội XI: Dân giàu, nước mạnh, dân chủ, công bằng, văn minh (\"dân chủ\" đứng trước \"công bằng\")."
+  },
+  {
+    "id": 441,
+    "question": "Nguyên nhân nào khiến phát xít Nhật đảo chính Pháp (9/3/1945)?",
+    "options": {
+      "a": "Pháp không chịu hợp tác với Nhật",
+      "b": "Nhật muốn giữ Đông Dương là con đường thoát thân duy nhất trên bộ, đề phòng Pháp bắt tay với Đồng Minh đánh úp Nhật",
+      "c": "Pháp yếu đi sau chiến tranh",
+      "d": "Nhật muốn mở rộng thuộc địa"
+    },
+    "answer": "b",
+    "explanation": "Nhật đảo chính Pháp vì: Chiến tranh thế giới II sắp kết thúc, Nhật sợ Pháp bắt tay với Đồng Minh đánh úp; Nhật muốn giữ Đông Dương là con đường thoát thân duy nhất trên bộ (trên biển đã bị chặn)."
+  },
+  {
+    "id": 442,
+    "question": "Ngay sau khi Nhật đảo chính Pháp (9/3/1945), tại sao chưa phát động tổng khởi nghĩa ngay?",
+    "options": {
+      "a": "Vì Đảng chưa có quyết định",
+      "b": "Vì phát xít Nhật còn mạnh; nhân dân đang lâm vào nạn đói; lực lượng vũ trang chưa chuẩn bị chu đáo; các tầng lớp trung gian chưa ngả hẳn về phía cách mạng",
+      "c": "Vì đang chờ sự giúp đỡ của Liên Xô",
+      "d": "Vì phải tập trung chống đói"
+    },
+    "answer": "b",
+    "explanation": "Chưa phát động tổng khởi nghĩa ngay vì 4 nguyên nhân: Phát xít Nhật còn mạnh; nhân dân đang lâm vào nạn đói; lực lượng vũ trang chưa chuẩn bị chu đáo; các tầng lớp trung gian chưa ngả hẳn về phía cách mạng."
+  }
+]
