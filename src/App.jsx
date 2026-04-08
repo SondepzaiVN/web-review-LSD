@@ -166,30 +166,26 @@ const formatDate = (timestamp) => {
 function App() {
   const topics = useMemo(() => buildTopics(), []);
   const savedQuizState = useMemo(() => loadQuizState(), []);
-  
+
   const [selectedTopics, setSelectedTopics] = useState(() =>
     topics.map((topic) => topic.id),
   );
   const [questionCount, setQuestionCount] = useState(30);
-  const [phase, setPhase] = useState(() => 
-    savedQuizState && !savedQuizState.completed ? "quiz" : "setup"
+  const [phase, setPhase] = useState(() =>
+    savedQuizState && !savedQuizState.completed ? "quiz" : "setup",
   );
-  const [quizQuestions, setQuizQuestions] = useState(() => 
-    savedQuizState?.questions || []
+  const [quizQuestions, setQuizQuestions] = useState(
+    () => savedQuizState?.questions || [],
   );
-  const [answers, setAnswers] = useState(() => 
-    savedQuizState?.answers || {}
+  const [answers, setAnswers] = useState(() => savedQuizState?.answers || {});
+  const [remainingSeconds, setRemainingSeconds] = useState(
+    () => savedQuizState?.remainingSeconds || 0,
   );
-  const [remainingSeconds, setRemainingSeconds] = useState(() => 
-    savedQuizState?.remainingSeconds || 0
-  );
-  const [timeUp, setTimeUp] = useState(() => 
-    savedQuizState?.timeUp || false
-  );
+  const [timeUp, setTimeUp] = useState(() => savedQuizState?.timeUp || false);
   const [showReview, setShowReview] = useState(false);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
-  const [currentIndex, setCurrentIndex] = useState(() => 
-    savedQuizState?.currentIndex || 0
+  const [currentIndex, setCurrentIndex] = useState(
+    () => savedQuizState?.currentIndex || 0,
   );
   const [reviewFilter, setReviewFilter] = useState("all"); // "all", "correct", "wrong"
   const [history, setHistory] = useState(() => loadHistory());
@@ -300,7 +296,8 @@ function App() {
   // Save quiz state to localStorage whenever relevant state changes
   useEffect(() => {
     if (phase === "quiz" && quizQuestions.length > 0) {
-      const isCompleted = timeUp || Object.keys(answers).length === quizQuestions.length;
+      const isCompleted =
+        timeUp || Object.keys(answers).length === quizQuestions.length;
       saveQuizState({
         questions: quizQuestions,
         answers,
@@ -455,8 +452,8 @@ function App() {
               >
                 <span>
                   {allSelected
-                    ? "Tất cả chủ đề"
-                    : `Đã chọn ${selectedTopics.length} / ${topics.length}`}
+                    ? `Tất cả chủ đề (${maxAvailable} câu)`
+                    : `Đã chọn ${selectedTopics.length} / ${topics.length} chủ đề (${maxAvailable} câu)`}
                 </span>
                 <span className="chevron">{isDropdownOpen ? "▲" : "▼"}</span>
               </button>
@@ -468,12 +465,17 @@ function App() {
                       checked={allSelected}
                       onChange={handleToggleAll}
                     />
-                    <span>Tất cả</span>
+                    <span>Tất cả ({topics.reduce((sum, t) => sum + t.questions.length, 0)} câu)</span>
                   </label>
                   {Object.entries(groupedTopics).map(
                     ([chapter, chapterTopics]) => (
                       <div key={chapter} className="dropdown-group">
-                        <p className="group-title">{chapter}</p>
+                        <p className="group-title">
+                          {chapter}{" "}
+                          <span className="chapter-count">
+                            ({chapterTopics.reduce((sum, t) => sum + t.questions.length, 0)} câu)
+                          </span>
+                        </p>
                         {chapterTopics.map((topic) => (
                           <label key={topic.id} className="checkbox-row">
                             <input
@@ -481,7 +483,12 @@ function App() {
                               checked={selectedTopics.includes(topic.id)}
                               onChange={() => handleToggleTopic(topic.id)}
                             />
-                            <span>{topic.topic}</span>
+                            <span>
+                              {topic.topic}{" "}
+                              <span className="topic-count">
+                                ({topic.questions.length} câu)
+                              </span>
+                            </span>
                           </label>
                         ))}
                       </div>

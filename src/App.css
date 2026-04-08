@@ -139,6 +139,16 @@ input[type="number"] {
   margin: 0 0 10px;
   font-weight: 600;
   color: var(--ink);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.chapter-count {
+  font-size: 12px;
+  color: var(--accent);
+  font-weight: 500;
 }
 
 .checkbox-row {
@@ -146,6 +156,23 @@ input[type="number"] {
   align-items: center;
   gap: 10px;
   font-size: 15px;
+}
+
+.checkbox-row span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.topic-count {
+  font-size: 12px;
+  color: var(--muted);
+  font-weight: 500;
+  background: var(--bg);
+  padding: 2px 8px;
+  border-radius: 12px;
+  white-space: nowrap;
 }
 
 input[type="checkbox"] {
